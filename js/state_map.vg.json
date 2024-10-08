@@ -1,10 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
+    "width": "container",
     "height": 400,
     "data": {
       "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
-      "format": {"type": "csv"}
+      "format": {"type": "topojson", "feature": "states"}
     },
     "transform": [
       {
@@ -17,14 +18,10 @@
           "key": "soe",
           "fields": ["year", "state_percentage_of_total"]
         },
-        "as": ["year_data", "state_percentage_of_total"]
+        "as": ["year", "state_percentage_of_total"]
       },
       {
-        "filter": "datum.year_data == year"
-      },
-      {
-        "calculate": "datum.state_percentage_of_total ? datum.state_percentage_of_total : 0",
-        "as": "StateMigrationPercentage"
+        "filter": "datum.year == year"
       }
     ],
     "params": [
@@ -46,21 +43,16 @@
     "mark": "geoshape",
     "encoding": {
       "color": {
-        "field": "StateMigrationPercentage",
+        "field": "state_percentage_of_total",
         "type": "quantitative",
-        "scale": {
-          "type": "linear",
-          "domain": [0, 10, 20, 30, 40, 50],
-          "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
-        },
         "legend": {
-          "title": "State Contribution to Total Migration (%)"
+          "title": "Total Migration (%)"
         }
       },
       "tooltip": [
         {"field": "properties.Name", "type": "nominal", "title": "State"},
         {
-          "field": "StateMigrationPercentage",
+          "field": "state_percentage_of_total",
           "type": "quantitative",
           "title": "Percentage of Total Migration (%)",
           "format": ".2f"
