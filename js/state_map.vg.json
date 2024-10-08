@@ -1,10 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Migration Distribution Across Malaysian States (2020-2024)",
-    "width": 500,
-    "height": 300,
+    "height": 400,
     "data": {
-      "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_1.json",
+      "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
       "format": {
         "type": "topojson",
         "feature": "states"
@@ -12,7 +11,7 @@
     },
     "transform": [
       {
-        "lookup": "id",
+        "lookup": "properties.Name",
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Yearly_Migration_Totals_by_State.csv",
@@ -21,13 +20,13 @@
           "key": "soe",
           "fields": ["year", "arrivals"]
         },
-        "as": "migration_data"
+        "as": ["year_data", "arrivals_data"]
       },
       {
-        "filter": "datum.migration_data.year == year"
+        "filter": "datum.year_data == year"
       },
       {
-        "calculate": "datum.migration_data ? datum.migration_data.arrivals : 0",
+        "calculate": "datum.arrivals_data ? datum.arrivals_data : 0",
         "as": "MigrationCount"
       }
     ],
@@ -62,7 +61,7 @@
         }
       },
       "tooltip": [
-        {"field": "properties.gn_name", "type": "nominal", "title": "State"},
+        {"field": "properties.Name", "type": "nominal", "title": "State"},
         {
           "field": "MigrationCount",
           "type": "quantitative",
