@@ -12,7 +12,7 @@
     },
     "transform": [
       {
-        "lookup": "properties.gn_name",
+        "lookup": "id",
         "from": {
           "data": {
             "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Yearly_Migration_Totals_by_State.csv",
