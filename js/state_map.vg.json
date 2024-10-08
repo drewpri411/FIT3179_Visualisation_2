@@ -1,9 +1,36 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "Migration Distribution Across Malaysian States (2020-2024)",
-    "width": "container",
-    "height": 400,
-    "projection": {"type": "equalEarth"},
+    "width": 500,
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_1.json",
+      "format": {
+        "type": "topojson",
+        "feature": "states"
+      }
+    },
+    "transform": [
+      {
+        "lookup": "properties.gn_name",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Yearly_Migration_Totals_by_State.csv",
+            "format": {"type": "csv"}
+          },
+          "key": "soe",
+          "fields": ["year", "arrivals"]
+        },
+        "as": "migration_data"
+      },
+      {
+        "filter": "datum.migration_data.year == year"
+      },
+      {
+        "calculate": "datum.migration_data ? datum.migration_data.arrivals : 0",
+        "as": "MigrationCount"
+      }
+    ],
     "params": [
       {
         "name": "year",
@@ -17,60 +44,32 @@
         }
       }
     ],
-    "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_1.json",
-          "format": {
-            "type": "topojson",
-            "feature": "states"}
+    "projection": {
+      "type": "equalEarth"
+    },
+    "mark": "geoshape",
+    "encoding": {
+      "color": {
+        "field": "MigrationCount",
+        "type": "quantitative",
+        "scale": {
+          "type": "linear",
+          "domain": [0, 1000, 10000, 50000, 100000],
+          "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
         },
-        "transform": [
-          {
-            "lookup": "properties.gn_name",
-            "from": {
-              "data": {
-                "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Yearly_Migration_Totals_by_State.csv",
-                "format": {"type": "csv"},
-                "key": "soe",
-                "fields": ["year", "arrivals"]
-              },
-              "as": "migration_data"
-            }
-          },
-          {
-            "filter": "datum.migration_data.year == year"
-          },
-          {
-            "calculate": "datum.migration_data ? datum.migration_data.arrivals : 0",
-            "as": "MigrationCount"
-          }
-        ],
-        "mark": {"type": "geoshape"},
-        "encoding": {
-          "color": {
-            "field": "MigrationCount",
-            "type": "quantitative",
-            "scale": {
-              "type": "linear",
-              "domain": [0, 1000, 10000, 50000, 100000],
-              "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
-            },
-            "legend": {
-              "title": "Migration Count"
-            }
-          },
-          "tooltip": [
-            {"field": "properties.gn_name", "type": "nominal", "title": "State"},
-            {
-              "field": "MigrationCount",
-              "type": "quantitative",
-              "title": "Migration Count",
-              "format": ",.0f"
-            }
-          ]
+        "legend": {
+          "title": "Migration Count"
         }
-      }
-    ]
+      },
+      "tooltip": [
+        {"field": "properties.gn_name", "type": "nominal", "title": "State"},
+        {
+          "field": "MigrationCount",
+          "type": "quantitative",
+          "title": "Migration Count",
+          "format": ",.0f"
+        }
+      ]
+    }
   }
   
