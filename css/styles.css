@@ -20,7 +20,8 @@ body * {
   
   .vis-container {
 	width: 100%;
-	height: 400px; /* Set height for visualization containers */
+  height: auto;
+	min-height: 400px; /* Set height for visualization containers */
   }
   
   .pure-g {
