@@ -3,30 +3,9 @@
     "title": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
     "width": "container",
     "height": 400,
-    "data": {
-      "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
-      "format": {"type": "topojson", "feature": "states"}
-    },
-    "transform": [
-      {
-        "lookup": "properties.Name",
-        "from": {
-          "data": {
-            "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Normalized_Migration_Data_with_2020_Population_and_State_Breakdown.csv",
-            "format": {"type": "csv"}
-          },
-          "key": "soe",
-          "fields": ["year", "state_percentage_of_total"]
-        },
-        "as": ["year", "state_percentage_of_total"]
-      },
-      {
-        "filter": "datum.year == year"
-      }
-    ],
     "params": [
       {
-        "name": "year",
+        "name": "year_selection",
         "value": 2020,
         "bind": {
           "input": "range",
@@ -40,24 +19,78 @@
     "projection": {
       "type": "equalEarth"
     },
-    "mark": "geoshape",
-    "encoding": {
-      "color": {
-        "field": "state_percentage_of_total",
-        "type": "quantitative",
-        "legend": {
-          "title": "Total Migration (%)"
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
+          "format": {"type": "topojson", "feature": "states"}
+        },
+        "transform": [
+          {
+            "calculate": "'No migration data available for ' + datum.properties.Name",
+            "as": "note"
+          }
+        ],
+        "mark": {
+          "type": "geoshape",
+          "fill": "#ddd",
+          "stroke": "white",
+          "strokeWidth": 1
+        },
+        "encoding": {
+          "tooltip": {"field": "note"}
         }
       },
-      "tooltip": [
-        {"field": "properties.Name", "type": "nominal", "title": "State"},
-        {
-          "field": "state_percentage_of_total",
-          "type": "quantitative",
-          "title": "Percentage of Total Migration (%)",
-          "format": ".2f"
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Normalized_Migration_Data_with_2020_Population_and_State_Breakdown.csv",
+          "format": {"type": "csv"}
+        },
+        "transform": [
+          {
+            "lookup": "soe",
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
+                "format": {"type": "topojson", "feature": "states"}
+              },
+              "key": "id"
+            }
+          },
+          {
+            "filter": "datum.year == year_selection"
+          }
+        ],
+        "mark": {
+          "type": "geoshape",
+          "stroke": "#fff",
+          "strokeWidth": 0.5
+        },
+        "encoding": {
+          "color": {
+            "field": "state_percentage_of_total",
+            "type": "quantitative",
+            "scale": {
+              "type": "linear",
+              "domain": [0, 100],
+              "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
+            },
+            "legend": {
+              "title": "Total Migration (%)"
+            }
+          },
+          "tooltip": [
+            {"field": "properties.Name", "type": "nominal", "title": "State"},
+            {
+              "field": "state_percentage_of_total",
+              "type": "quantitative",
+              "title": "Percentage of Total Migration (%)",
+              "format": ".2f"
+            }
+          ]
         }
-      ]
-    }
+      }
+    ],
+    "config": {}
   }
   
