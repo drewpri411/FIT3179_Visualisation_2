@@ -1,0 +1,135 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Migration Arrivals by Continent and Country",
+    "width": "container",
+    "height": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W10_HW/main/data/updated_arrivals_soe_with_monthly_totals.csv",
+      "format": {
+        "type": "csv"
+      }
+    },
+    "params": [
+      {
+        "name": "Continent_selection",
+        "bind": {
+          "input": "select",
+          "options": [null, "Asia", "Europe", "Africa", "Americas", "Oceania"],
+          "labels": ["Show All", "Asia", "Europe", "Africa", "Americas", "Oceania"],
+          "name": "Continent Selection: "
+        }
+      },
+      {
+        "name": "Year_selection",
+        "bind": {
+          "input": "range",
+          "min": 2020,
+          "max": 2024,
+          "step": 1,
+          "name": "Select Year: "
+        },
+        "value": 2022
+      }
+    ],
+    "transform": [
+      {
+        "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+      },
+      {
+        "calculate": "year(datum.date)",
+        "as": "Year"
+      },
+      {
+        "filter": "datum.Year == Year_selection"
+      },
+      {
+        "calculate": "datum.arrivals_monthly_total == null ? 0 : datum.arrivals_monthly_total",
+        "as": "Monthly_Arrivals"
+      }
+    ],
+    "layer": [
+      {
+        "mark": {
+          "type": "line",
+          "point": true, 
+          "interpolate": "monotone" 
+        },
+        "encoding": {
+          "x": {
+            "field": "date",
+            "type": "temporal",
+            "title": "Date"
+          },
+          "y": {
+            "field": "Monthly_Arrivals",
+            "type": "quantitative",
+            "title": "Monthly Arrivals",
+            "axis": { "tickCount": 7 },
+            "scale": {
+              "type": "log",
+              "domain": [1, 10000000],
+              "clamp": true
+            }
+          },
+          "color": {
+            "field": "country",
+            "type": "nominal",
+            "title": "Country"
+          },
+          "tooltip": [
+            {
+              "field": "country",
+              "type": "nominal",
+              "title": "Country"
+            },
+            {
+              "field": "date",
+              "type": "temporal",
+              "title": "Date"
+            },
+            {
+              "field": "Monthly_Arrivals",
+              "type": "quantitative",
+              "title": "Monthly Arrivals"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "rule",
+          "color": "red",
+          "strokeWidth": 2
+        },
+        "encoding": {
+          "x": {
+            "datum": "2020-04-01",
+            "type": "temporal"
+          }
+        }
+      },
+      {
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "dx": 5,
+          "dy": -5,
+          "color": "red"
+        },
+        "encoding": {
+          "x": {
+            "datum": "2020-04-01",
+            "type": "temporal"
+          },
+          "y": {
+            "datum": 10000000,
+            "type": "quantitative"
+          },
+          "text": {
+            "value": "Migration went down due to COVID-19"
+          }
+        }
+      }
+    ]
+  }
+  
