@@ -4,25 +4,45 @@
     "width": "container",
     "height": 400,
     "projection": {"type": "equalEarth"},
+    "params": [
+      {
+        "name": "year",
+        "value": 2020,
+        "bind": {
+          "input": "range",
+          "min": 2020,
+          "max": 2024,
+          "step": 1,
+          "name": "Year: "
+        }
+      }
+    ],
     "layer": [
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W9_HW/main/js/malaysia_states.topojson",  // Update with your Malaysian states TopoJSON
-          "format": {"type": "topojson", "feature": "states"}
+          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_1.json",
+          "format": {
+            "type": "topojson",
+            "feature": "states"}
         },
         "transform": [
           {
             "lookup": "properties.gn_name",
             "from": {
               "data": {
-                "url": "https://raw.githubusercontent.com/your_username/your_repo/migration_malaysia_states.csv",  // Update with your migration dataset URL
-                "key": "state_id",  // Field in the dataset that corresponds to the state ID
-                "fields": ["migration_count"]  // The migration data field to display
-              }
+                "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Yearly_Migration_Totals_by_State.csv",
+                "format": {"type": "csv"},
+                "key": "soe",
+                "fields": ["year", "arrivals"]
+              },
+              "as": "migration_data"
             }
           },
           {
-            "calculate": "datum.migration_count > 100000 ? 100000 : datum.migration_count",  // Adjust the range based on your data
+            "filter": "datum.migration_data.year == year"
+          },
+          {
+            "calculate": "datum.migration_data ? datum.migration_data.arrivals : 0",
             "as": "MigrationCount"
           }
         ],
@@ -41,7 +61,7 @@
             }
           },
           "tooltip": [
-            {"field": "properties.state_name", "type": "nominal", "title": "State"},  // Update with the state name field
+            {"field": "properties.gn_name", "type": "nominal", "title": "State"},
             {
               "field": "MigrationCount",
               "type": "quantitative",
