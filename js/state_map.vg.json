@@ -1,0 +1,56 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": "Migration Distribution Across Malaysian States (2020-2024)",
+    "width": "container",
+    "height": 400,
+    "projection": {"type": "equalEarth"},
+    "layer": [
+      {
+        "data": {
+          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W9_HW/main/js/malaysia_states.topojson",  // Update with your Malaysian states TopoJSON
+          "format": {"type": "topojson", "feature": "states"}
+        },
+        "transform": [
+          {
+            "lookup": "properties.gn_name",
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/your_username/your_repo/migration_malaysia_states.csv",  // Update with your migration dataset URL
+                "key": "state_id",  // Field in the dataset that corresponds to the state ID
+                "fields": ["migration_count"]  // The migration data field to display
+              }
+            }
+          },
+          {
+            "calculate": "datum.migration_count > 100000 ? 100000 : datum.migration_count",  // Adjust the range based on your data
+            "as": "MigrationCount"
+          }
+        ],
+        "mark": {"type": "geoshape"},
+        "encoding": {
+          "color": {
+            "field": "MigrationCount",
+            "type": "quantitative",
+            "scale": {
+              "type": "linear",
+              "domain": [0, 1000, 10000, 50000, 100000],
+              "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
+            },
+            "legend": {
+              "title": "Migration Count"
+            }
+          },
+          "tooltip": [
+            {"field": "properties.state_name", "type": "nominal", "title": "State"},  // Update with the state name field
+            {
+              "field": "MigrationCount",
+              "type": "quantitative",
+              "title": "Migration Count",
+              "format": ",.0f"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
