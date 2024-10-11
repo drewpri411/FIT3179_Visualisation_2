@@ -43,7 +43,7 @@
       },
       {
         "data": {
-          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Normalized_Migration_Data_with_2020_Population_and_State_Breakdown.csv",
+          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Pivoted_Migration_Data.csv",
           "format": {"type": "csv"}
         },
         "transform": [
