@@ -1,19 +1,25 @@
 /* Global font */
 body * {
-  font-family: 'Comfortaa', sans-serif;
-  color: #333;
+  font-family: 'Roboto', sans-serif; /* Use Roboto for the whole website */
+  color: #333333; /* Standardized font color for the entire page */
 }
 
 h1, h2 {
   font-weight: 900; /* Bold headings */
 }
 
-h2 {
-  font-size: 1.5em;
+h1 {
+  color: #002B5B; /* Optional: keep the dark navy blue color for the main title */
 }
 
-p {
-  font-weight: 300; /* Light weight for paragraph text */
+h2 {
+  font-size: 1.5em;
+  color: #333333; /* Standardize h2 color */
+}
+
+p, li {
+  font-weight: 300; /* Light weight for paragraph and list text */
+  color: #333333; /* Standardized font color for paragraphs and lists */
 }
 
 /* Body background */
@@ -33,9 +39,9 @@ body {
   padding: 20px;
 }
 
-/* Card layout for visualizations */
+/* Card layout for visualizations and header */
 .card {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white for cards */
   border-radius: 12px; /* Rounded corners */
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
@@ -49,13 +55,13 @@ body {
   min-height: 400px;
 }
 
-/* Header styling */
+/* Header card styling */
 .header {
   text-align: center;
   padding: 40px 20px;
+  margin-bottom: 40px; /* Extra space below header */
 }
 
-/* Remove extra spacing for the lists */
 ul {
   padding-left: 20px;
 }
