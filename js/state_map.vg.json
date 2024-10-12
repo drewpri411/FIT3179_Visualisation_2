@@ -1,8 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
+  "title": {
+    "text": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
+    "anchor": "start",
+    "fontSize": 16
+  },
   "width": "container",
   "height": 400,
+  "padding": {"left": 10, "top": 10, "right": 50, "bottom": 50},  
   "params": [
     {
       "name": "year_selection",
@@ -75,10 +80,14 @@
           "scale": {
             "type": "threshold",
             "domain": [0.1, 2.5, 10, 25, 50, 75],
-            "range": ["#d0e1f9", "#74add1", "#4575b4", "#313695", "#253494", "#0c2c84"]  
+            "range": ["#d0e1f9", "#74add1", "#4575b4", "#313695", "#253494", "#0c2c84"]
           },
           "legend": {
-            "title": "Total Migration (%)"
+            "title": "Total Migration (%)",
+            "orient": "right",
+            "offset": 10,
+            "direction": "vertical",
+            "labelLimit": 100  
           }
         },
         "tooltip": [
