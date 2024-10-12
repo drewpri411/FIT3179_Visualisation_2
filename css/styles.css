@@ -1,51 +1,58 @@
 /* Global font */
 body * {
-  font-family: 'Roboto', sans-serif; /* Use Roboto for the whole website */
-  color: #333333; /* Standardized font color for the entire page */
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
 }
 
 h1, h2 {
-  font-weight: 900; /* Bold headings */
+  font-weight: 900;
 }
 
 h1 {
-  color: #002B5B; /* Optional: keep the dark navy blue color for the main title */
+  color: #002B5B;
 }
 
 h2 {
-  font-size: 1.5em;
-  color: #333333; /* Standardize h2 color */
+  font-size: 1.6em;
+  color: #002B5B;
 }
 
 p, li {
-  font-weight: 300; /* Light weight for paragraph and list text */
-  color: #333333; /* Standardized font color for paragraphs and lists */
+  font-weight: 300;
+  color: #333333;
 }
 
 /* Body background */
 body {
-  background-color: #F8F8F8; /* Light background */
+  background-color: #F8F8F8;
   background-image: url('https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/background_image.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  padding-bottom: 50px;
 }
 
 /* Page wrapper */
 .page {
   width: 95%;
-  max-width: 1500px;
+  max-width: 1400px;
   margin: auto;
   padding: 20px;
 }
 
-/* Card layout for visualizations and header */
+/* Card layout */
 .card {
-  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white for cards */
-  border-radius: 12px; /* Rounded corners */
-  padding: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-  margin-bottom: 40px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 16px;
+  padding: 30px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  margin-bottom: 50px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
 /* Visualization container size */
@@ -53,25 +60,100 @@ body {
   width: 100%;
   height: auto;
   min-height: 400px;
+  overflow: hidden; /* Ensure no overflow */
+  padding: 20px; /* Padding for better separation */
+  box-sizing: border-box;
+}
+
+#state_choropleth_map, #choropleth_map, #line_chart {
+  border: 2px solid #002B5B;
+  border-radius: 12px;
+  padding: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Responsive embedding for Vega-Lite charts */
+.vega-embed {
+  width: 100% !important;
+  max-width: 100%;
 }
 
 /* Header card styling */
 .header {
   text-align: center;
-  padding: 40px 20px;
-  margin-bottom: 40px; /* Extra space below header */
+  padding: 50px 30px;
+  margin-bottom: 50px;
 }
 
 ul {
-  padding-left: 20px;
+  padding-left: 30px;
+}
+
+/* Center text when needed */
+.text-center {
+  text-align: center;
+}
+
+/* Slider styling */
+input[type="range"] {
+  -webkit-appearance: none;
+  width: 100%;
+  margin: 10px 0;
+  background-color: transparent;
+}
+
+input[type="range"]:focus {
+  outline: none;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  background: #74add1; /* Slider track in blue */
+  border-radius: 5px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  border: 1px solid #002B5B;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #002B5B;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -6px;
+}
+
+input[type="range"]::-moz-range-thumb {
+  border: 1px solid #002B5B;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: #002B5B;
+  cursor: pointer;
+}
+
+/* Slider label styling */
+label {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #002B5B;
+  margin-right: 10px;
 }
 
 /* Responsive grid */
 .pure-g {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
-/* Center text in cards when needed */
-.text-center {
+/* Page footer spacing */
+.page-footer {
+  padding: 20px;
   text-align: center;
+  background-color: rgba(255, 255, 255, 0.9);
+  margin-top: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }

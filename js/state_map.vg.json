@@ -73,9 +73,9 @@
           "field": "state_percentage_of_total",
           "type": "quantitative",
           "scale": {
-            "type": "linear",
-            "domain": [0.1, 100],
-            "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
+            "type": "threshold",
+            "domain": [0.1, 2.5, 10, 25, 50, 75],
+            "range": ["#d0e1f9", "#74add1", "#4575b4", "#313695", "#253494", "#0c2c84"]  
           },
           "legend": {
             "title": "Total Migration (%)"
@@ -87,7 +87,7 @@
             "field": "state_percentage_of_total",
             "type": "quantitative",
             "title": "Percentage of Total Migration (%)",
-            "format": ".4f" 
+            "format": ".4f"
           }
         ]
       }
