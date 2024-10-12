@@ -1,96 +1,96 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
-    "width": "container",
-    "height": 400,
-    "params": [
-      {
-        "name": "year_selection",
-        "value": 2020,
-        "bind": {
-          "input": "range",
-          "min": 2020,
-          "max": 2024,
-          "step": 1,
-          "name": "Year: "
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "State-wise Breakdown of Migration (Percentage of Total) Across Malaysian States (2020-2024)",
+  "width": "container",
+  "height": 400,
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 2020,
+        "max": 2024,
+        "step": 1,
+        "name": "Year: "
       }
-    ],
-    "projection": {
-      "type": "equalEarth"
-    },
-    "layer": [
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
-          "format": {"type": "topojson", "feature": "states"}
-        },
-        "transform": [
-          {
-            "calculate": "'No migration data available for ' + datum.properties.Name",
-            "as": "note"
-          }
-        ],
-        "mark": {
-          "type": "geoshape",
-          "fill": "#ddd",
-          "stroke": "white",
-          "strokeWidth": 1
-        },
-        "encoding": {
-          "tooltip": {"field": "note"}
-        }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
+        "format": {"type": "topojson", "feature": "states"}
       },
-      {
-        "data": {
-          "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Pivoted_Migration_Data.csv",
-          "format": {"type": "csv"}
-        },
-        "transform": [
-          {
-            "lookup": "soe",
-            "from": {
-              "data": {
-                "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
-                "format": {"type": "topojson", "feature": "states"}
-              },
-              "key": "id"
-            }
-          },
-          {
-            "filter": "datum.year == year_selection"
+      "transform": [
+        {
+          "calculate": "'No migration data available for ' + datum.properties.Name",
+          "as": "note"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "fill": "#ddd",
+        "stroke": "white",
+        "strokeWidth": 1
+      },
+      "encoding": {
+        "tooltip": {"field": "note"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/malaysia-states.topojson",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "transform": [
+        {
+          "lookup": "id",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/Pivoted_Migration_Data.csv",
+              "format": {"type": "csv"}
+            },
+            "key": "state",
+            "fields": ["2020", "2021", "2022", "2023", "2024"]
           }
-        ],
-        "mark": {
-          "type": "geoshape",
-          "stroke": "#fff",
-          "strokeWidth": 0.5
         },
-        "encoding": {
-          "color": {
+        {
+          "calculate": "datum[year_selection]",
+          "as": "state_percentage_of_total"
+        }
+      ],
+      "mark": {
+        "type": "geoshape",
+        "stroke": "#fff",
+        "strokeWidth": 0.5
+      },
+      "encoding": {
+        "color": {
+          "field": "state_percentage_of_total",
+          "type": "quantitative",
+          "scale": {
+            "type": "linear",
+            "domain": [0.1, 100],
+            "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
+          },
+          "legend": {
+            "title": "Total Migration (%)"
+          }
+        },
+        "tooltip": [
+          {"field": "properties.Name", "type": "nominal", "title": "State"},
+          {
             "field": "state_percentage_of_total",
             "type": "quantitative",
-            "scale": {
-              "type": "linear",
-              "domain": [0, 100],
-              "range": ["#ffffb2", "#fecc5c", "#fd8d3c", "#f03b20", "#bd0026"]
-            },
-            "legend": {
-              "title": "Total Migration (%)"
-            }
-          },
-          "tooltip": [
-            {"field": "properties.Name", "type": "nominal", "title": "State"},
-            {
-              "field": "state_percentage_of_total",
-              "type": "quantitative",
-              "title": "Percentage of Total Migration (%)",
-              "format": ".2f"
-            }
-          ]
-        }
+            "title": "Percentage of Total Migration (%)",
+            "format": ".4f" 
+          }
+        ]
       }
-    ],
-    "config": {}
-  }
-  
+    }
+  ]
+}
