@@ -126,7 +126,8 @@ select option {
 
 /* Slider styling */
 input[type="range"] {
-  -webkit-appearance: none;
+  -webkit-appearance: none; /* Vendor-prefixed version for WebKit browsers */
+  appearance: none; /* Standard property for broader compatibility */
   width: 100%;
   margin: 10px 0;
   background-color: transparent;
