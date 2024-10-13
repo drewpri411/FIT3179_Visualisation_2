@@ -65,7 +65,7 @@ body {
   box-sizing: border-box;
 }
 
-#state_choropleth_map, #choropleth_map, #line_chart {
+#state_choropleth_map, #choropleth_map, #line_chart, #pyramid_chart {
   border: 2px solid #002B5B;
   border-radius: 12px;
   padding: 10px;

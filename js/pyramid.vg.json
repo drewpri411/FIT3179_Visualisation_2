@@ -1,0 +1,133 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A population pyramid for migration data showing top 10 countries.",
+    "title": {
+      "text": "Top 10 Countries - Migration Population Pyramid by Continent and Country",
+      "anchor": "middle",
+      "fontSize": 16,
+      "font": "Roboto"
+    },
+    "data": {
+      "url": "data/transformed_migrant_data.csv",
+      "format": {"type": "csv"}
+    },
+    "params": [
+      {
+        "name": "Continent_selection",
+        "bind": {
+          "input": "select",
+          "options": ["Asia", "Europe", "Africa", "North America", "Oceania"],
+          "name": "Continent Selection: "
+        },
+        "value": "Asia"
+      },
+      {
+        "name": "Year_selection",
+        "bind": {
+          "input": "range",
+          "min": 2020,
+          "max": 2024,
+          "step": 1,
+          "name": "Select Year: "
+        },
+        "value": 2022
+      }
+    ],
+    "transform": [
+      {
+        "filter": "datum.continent == Continent_selection"
+      },
+      {
+        "filter": "datum.year == Year_selection"
+      },
+      {
+        "calculate": "datum.Male_Migrants + datum.Female_Migrants", 
+        "as": "Total_Migrants"
+      },
+      {
+        "window": [{"op": "rank", "as": "rank"}],
+        "sort": [{"field": "Total_Migrants", "order": "descending"}]
+      },
+      {
+        "filter": "datum.rank <= 10"
+      }
+    ],
+    "spacing": 0,
+    "hconcat": [
+      {
+        "transform": [{"filter": "datum.Female_Migrants > 0"}],
+        "title": "Female",
+        "mark": "bar",
+        "encoding": {
+          "y": {
+            "field": "country_name",
+            "sort": {"field": "Total_Migrants", "order": "descending"},  
+            "axis": null
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "Female_Migrants",
+            "title": "population",
+            "axis": {"format": "s"}, 
+            "sort": "descending"
+          },
+          "color": {
+            "value": "#675193"
+          },
+          "tooltip": [
+            {"field": "country_name", "title": "Country"},
+            {"field": "Female_Migrants", "title": "Female Migrants", "format": ","},
+            {"field": "year", "title": "Year"}
+          ]
+        }
+      },
+      {
+        "width": 20,
+        "view": {"stroke": null},
+        "mark": {
+          "type": "text",
+          "align": "center"
+        },
+        "encoding": {
+          "y": {
+            "field": "country_name",
+            "type": "ordinal",
+            "sort": {"field": "Total_Migrants", "order": "descending"},  
+            "axis": null
+          },
+          "text": {"field": "country_name", "type": "nominal"}
+        }
+      },
+      {
+        "transform": [{"filter": "datum.Male_Migrants > 0"}],
+        "title": "Male",
+        "mark": "bar",
+        "encoding": {
+          "y": {
+            "field": "country_name",
+            "sort": {"field": "Total_Migrants", "order": "descending"},  
+            "axis": null
+          },
+          "x": {
+            "aggregate": "sum",
+            "field": "Male_Migrants",
+            "title": "population",
+            "axis": {"format": "s"}  
+          },
+          "color": {
+            "value": "#ca8861"
+          },
+          "tooltip": [
+            {"field": "country_name", "title": "Country"},
+            {"field": "Male_Migrants", "title": "Male Migrants", "format": ","},
+            {"field": "year", "title": "Year"}
+          ]
+        }
+      }
+    ],
+    "config": {
+      "view": {"stroke": null},
+      "axis": {"grid": false}
+    }
+  }
+  

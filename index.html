@@ -100,9 +100,7 @@
           <li>Consistent migration growth in states like Selangor.</li>
           <li>Shifts in migration patterns influenced by regional factors.</li>
         </ul>
-        <div class="vis-container">
-          <p class="text-center">Stacked Bar Chart coming soon!</p>
-        </div>
+        <div id="pyramid_chart" class="vis-container"></div>
       </div>
     </div>
     <!-- End Regional Breakdown Over Time -->
@@ -137,6 +135,9 @@
 
     var specStateChoropleth = "js/state_map.vg.json";
     vegaEmbed('#state_choropleth_map', specStateChoropleth, { "actions": false }).catch(console.error);
+
+    var specPyramid = "js/pyramid.vg.json";
+    vegaEmbed('#pyramid_chart', specPyramid, { "actions": false }).catch(console.error);
 
   </script>
 
