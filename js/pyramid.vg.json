@@ -3,6 +3,7 @@
   "data": {"url": "data/transformed_migrant_data_with_flags.csv", "format": {"type": "csv"}},
   "width": "container",
   "height": 400,
+  "padding": {"left": 10, "top": 10, "right": 50, "bottom": 50}, 
   "params": [
     {
       "name": "Continent_selection",

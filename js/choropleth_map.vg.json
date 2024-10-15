@@ -1,9 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Migration to Malaysia as Percentage (2020-2024)",
+
   "width": "container",
   "height": 400,
   "projection": {"type": "equalEarth"},
+  "padding": {"left": 10, "top": 10, "right": 50, "bottom": 50}, 
   "params": [
     {
       "name": "yearSelector",

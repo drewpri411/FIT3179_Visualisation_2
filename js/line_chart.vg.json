@@ -2,10 +2,11 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "Migration Arrivals by Continent and Country",
-    "anchor": "middle",
+    "anchor": "start",
     "fontSize": 16,
     "font": "Roboto"
   },
+  "padding": {"left": 10, "top": 10, "right": 50, "bottom": 50}, 
   "width": "container",
   "height": 400,
   "data": {
