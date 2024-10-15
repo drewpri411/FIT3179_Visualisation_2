@@ -53,14 +53,19 @@
       "type": "nominal",
       "title": "Country and Flag",
       "axis": {
-        "labelAngle": 0,  
-        "labelFontSize": 12
+        "labelAngle": -45,
+        "labelFontSize": 14
       }
     },
     "y": {
       "field": "Migrants",
       "type": "quantitative",
-      "title": "Number of Migrants"
+      "scale": {"type": "log"},
+      "title": "Number of Migrants",
+      "axis": {
+        "labelFontSize": 12,
+        "grid": true
+      }
     },
     "color": {
       "field": "Gender",
@@ -75,5 +80,15 @@
       {"field": "Migrants", "title": "Number of Migrants"},
       {"field": "year", "title": "Year"}
     ]
+  },
+  "config": {
+    "axisX": {
+      "labelPadding": 10,
+      "titleFontSize": 14
+    },
+    "axisY": {
+      "titleFontSize": 14,
+      "labelFontSize": 12
+    }
   }
 }
