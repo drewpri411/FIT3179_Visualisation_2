@@ -1,0 +1,3349 @@
+country_name,continent,year,month,monthly_total
+Algeria,Africa,2020,April,0
+Algeria,Africa,2020,August,5
+Algeria,Africa,2020,December,9
+Algeria,Africa,2020,February,916
+Algeria,Africa,2020,January,783
+Algeria,Africa,2020,July,4
+Algeria,Africa,2020,June,1
+Algeria,Africa,2020,March,367
+Algeria,Africa,2020,May,0
+Algeria,Africa,2020,November,4
+Algeria,Africa,2020,October,1
+Algeria,Africa,2020,September,2
+Algeria,Africa,2021,April,3
+Algeria,Africa,2021,August,12
+Algeria,Africa,2021,December,45
+Algeria,Africa,2021,February,4
+Algeria,Africa,2021,January,9
+Algeria,Africa,2021,July,3
+Algeria,Africa,2021,June,11
+Algeria,Africa,2021,March,4
+Algeria,Africa,2021,May,4
+Algeria,Africa,2021,November,26
+Algeria,Africa,2021,October,11
+Algeria,Africa,2021,September,26
+Algeria,Africa,2022,April,119
+Algeria,Africa,2022,August,929
+Algeria,Africa,2022,December,322
+Algeria,Africa,2022,February,47
+Algeria,Africa,2022,January,50
+Algeria,Africa,2022,July,289
+Algeria,Africa,2022,June,222
+Algeria,Africa,2022,March,54
+Algeria,Africa,2022,May,225
+Algeria,Africa,2022,November,491
+Algeria,Africa,2022,October,451
+Algeria,Africa,2022,September,501
+Algeria,Africa,2023,April,289
+Algeria,Africa,2023,August,3192
+Algeria,Africa,2023,December,987
+Algeria,Africa,2023,February,404
+Algeria,Africa,2023,January,500
+Algeria,Africa,2023,July,1172
+Algeria,Africa,2023,June,503
+Algeria,Africa,2023,March,414
+Algeria,Africa,2023,May,656
+Algeria,Africa,2023,November,795
+Algeria,Africa,2023,October,1186
+Algeria,Africa,2023,September,1716
+Algeria,Africa,2024,April,513
+Algeria,Africa,2024,February,865
+Algeria,Africa,2024,January,1018
+Algeria,Africa,2024,June,815
+Algeria,Africa,2024,March,395
+Algeria,Africa,2024,May,962
+Argentina,South America,2020,April,0
+Argentina,South America,2020,August,2
+Argentina,South America,2020,December,10
+Argentina,South America,2020,February,824
+Argentina,South America,2020,January,1467
+Argentina,South America,2020,July,4
+Argentina,South America,2020,June,0
+Argentina,South America,2020,March,511
+Argentina,South America,2020,May,0
+Argentina,South America,2020,November,3
+Argentina,South America,2020,October,1
+Argentina,South America,2020,September,1
+Argentina,South America,2021,April,2
+Argentina,South America,2021,August,19
+Argentina,South America,2021,December,11
+Argentina,South America,2021,February,4
+Argentina,South America,2021,January,13
+Argentina,South America,2021,July,10
+Argentina,South America,2021,June,7
+Argentina,South America,2021,March,8
+Argentina,South America,2021,May,6
+Argentina,South America,2021,November,1
+Argentina,South America,2021,October,12
+Argentina,South America,2021,September,4
+Argentina,South America,2022,April,100
+Argentina,South America,2022,August,259
+Argentina,South America,2022,December,311
+Argentina,South America,2022,February,19
+Argentina,South America,2022,January,42
+Argentina,South America,2022,July,282
+Argentina,South America,2022,June,184
+Argentina,South America,2022,March,25
+Argentina,South America,2022,May,172
+Argentina,South America,2022,November,361
+Argentina,South America,2022,October,381
+Argentina,South America,2022,September,296
+Argentina,South America,2023,April,523
+Argentina,South America,2023,August,484
+Argentina,South America,2023,December,628
+Argentina,South America,2023,February,456
+Argentina,South America,2023,January,710
+Argentina,South America,2023,July,503
+Argentina,South America,2023,June,313
+Argentina,South America,2023,March,536
+Argentina,South America,2023,May,457
+Argentina,South America,2023,November,556
+Argentina,South America,2023,October,512
+Argentina,South America,2023,September,484
+Argentina,South America,2024,April,657
+Argentina,South America,2024,February,782
+Argentina,South America,2024,January,1211
+Argentina,South America,2024,June,549
+Argentina,South America,2024,March,767
+Argentina,South America,2024,May,571
+Australia,Oceania,2020,April,9
+Australia,Oceania,2020,August,125
+Australia,Oceania,2020,December,123
+Australia,Oceania,2020,February,22818
+Australia,Oceania,2020,January,51998
+Australia,Oceania,2020,July,172
+Australia,Oceania,2020,June,41
+Australia,Oceania,2020,March,9409
+Australia,Oceania,2020,May,42
+Australia,Oceania,2020,November,175
+Australia,Oceania,2020,October,101
+Australia,Oceania,2020,September,135
+Australia,Oceania,2021,April,113
+Australia,Oceania,2021,August,147
+Australia,Oceania,2021,December,628
+Australia,Oceania,2021,February,87
+Australia,Oceania,2021,January,152
+Australia,Oceania,2021,July,99
+Australia,Oceania,2021,June,55
+Australia,Oceania,2021,March,94
+Australia,Oceania,2021,May,78
+Australia,Oceania,2021,November,221
+Australia,Oceania,2021,October,125
+Australia,Oceania,2021,September,101
+Australia,Oceania,2022,April,7148
+Australia,Oceania,2022,August,16843
+Australia,Oceania,2022,December,40002
+Australia,Oceania,2022,February,570
+Australia,Oceania,2022,January,973
+Australia,Oceania,2022,July,18810
+Australia,Oceania,2022,June,13292
+Australia,Oceania,2022,March,834
+Australia,Oceania,2022,May,9469
+Australia,Oceania,2022,November,25521
+Australia,Oceania,2022,October,24169
+Australia,Oceania,2022,September,21744
+Australia,Oceania,2023,April,33383
+Australia,Oceania,2023,August,28940
+Australia,Oceania,2023,December,54673
+Australia,Oceania,2023,February,23413
+Australia,Oceania,2023,January,43421
+Australia,Oceania,2023,July,39291
+Australia,Oceania,2023,June,26137
+Australia,Oceania,2023,March,26635
+Australia,Oceania,2023,May,25757
+Australia,Oceania,2023,November,35471
+Australia,Oceania,2023,October,33023
+Australia,Oceania,2023,September,38952
+Australia,Oceania,2024,April,32868
+Australia,Oceania,2024,February,30128
+Australia,Oceania,2024,January,50374
+Australia,Oceania,2024,June,39022
+Australia,Oceania,2024,March,34288
+Australia,Oceania,2024,May,26870
+Bangladesh,Asia,2020,April,2
+Bangladesh,Asia,2020,August,176
+Bangladesh,Asia,2020,December,60
+Bangladesh,Asia,2020,February,19668
+Bangladesh,Asia,2020,January,26955
+Bangladesh,Asia,2020,July,108
+Bangladesh,Asia,2020,June,39
+Bangladesh,Asia,2020,March,10369
+Bangladesh,Asia,2020,May,10
+Bangladesh,Asia,2020,November,69
+Bangladesh,Asia,2020,October,63
+Bangladesh,Asia,2020,September,151
+Bangladesh,Asia,2021,April,271
+Bangladesh,Asia,2021,August,16
+Bangladesh,Asia,2021,December,5752
+Bangladesh,Asia,2021,February,147
+Bangladesh,Asia,2021,January,106
+Bangladesh,Asia,2021,July,10
+Bangladesh,Asia,2021,June,3
+Bangladesh,Asia,2021,March,307
+Bangladesh,Asia,2021,May,100
+Bangladesh,Asia,2021,November,1098
+Bangladesh,Asia,2021,October,217
+Bangladesh,Asia,2021,September,34
+Bangladesh,Asia,2022,April,9123
+Bangladesh,Asia,2022,August,26179
+Bangladesh,Asia,2022,December,39820
+Bangladesh,Asia,2022,February,5715
+Bangladesh,Asia,2022,January,5393
+Bangladesh,Asia,2022,July,18164
+Bangladesh,Asia,2022,June,14915
+Bangladesh,Asia,2022,March,8955
+Bangladesh,Asia,2022,May,13343
+Bangladesh,Asia,2022,November,36928
+Bangladesh,Asia,2022,October,33524
+Bangladesh,Asia,2022,September,27085
+Bangladesh,Asia,2023,April,43311
+Bangladesh,Asia,2023,August,75514
+Bangladesh,Asia,2023,December,42113
+Bangladesh,Asia,2023,February,59350
+Bangladesh,Asia,2023,January,51838
+Bangladesh,Asia,2023,July,61537
+Bangladesh,Asia,2023,June,51768
+Bangladesh,Asia,2023,March,62977
+Bangladesh,Asia,2023,May,48550
+Bangladesh,Asia,2023,November,38951
+Bangladesh,Asia,2023,October,43290
+Bangladesh,Asia,2023,September,56346
+Bangladesh,Asia,2024,April,28449
+Bangladesh,Asia,2024,February,31793
+Bangladesh,Asia,2024,January,41412
+Bangladesh,Asia,2024,June,29387
+Bangladesh,Asia,2024,March,26625
+Bangladesh,Asia,2024,May,67316
+Bolivia,South America,2020,April,0
+Bolivia,South America,2020,August,0
+Bolivia,South America,2020,December,0
+Bolivia,South America,2020,February,22
+Bolivia,South America,2020,January,38
+Bolivia,South America,2020,July,0
+Bolivia,South America,2020,June,0
+Bolivia,South America,2020,March,12
+Bolivia,South America,2020,May,0
+Bolivia,South America,2020,November,0
+Bolivia,South America,2020,October,0
+Bolivia,South America,2020,September,2
+Bolivia,South America,2021,April,0
+Bolivia,South America,2021,August,0
+Bolivia,South America,2021,December,0
+Bolivia,South America,2021,February,0
+Bolivia,South America,2021,January,0
+Bolivia,South America,2021,July,1
+Bolivia,South America,2021,June,0
+Bolivia,South America,2021,March,0
+Bolivia,South America,2021,May,0
+Bolivia,South America,2021,November,0
+Bolivia,South America,2021,October,1
+Bolivia,South America,2021,September,0
+Bolivia,South America,2022,April,2
+Bolivia,South America,2022,August,19
+Bolivia,South America,2022,December,21
+Bolivia,South America,2022,February,1
+Bolivia,South America,2022,January,0
+Bolivia,South America,2022,July,12
+Bolivia,South America,2022,June,10
+Bolivia,South America,2022,March,1
+Bolivia,South America,2022,May,25
+Bolivia,South America,2022,November,32
+Bolivia,South America,2022,October,24
+Bolivia,South America,2022,September,29
+Bolivia,South America,2023,April,28
+Bolivia,South America,2023,August,40
+Bolivia,South America,2023,December,29
+Bolivia,South America,2023,February,16
+Bolivia,South America,2023,January,49
+Bolivia,South America,2023,July,51
+Bolivia,South America,2023,June,9
+Bolivia,South America,2023,March,16
+Bolivia,South America,2023,May,41
+Bolivia,South America,2023,November,44
+Bolivia,South America,2023,October,279
+Bolivia,South America,2023,September,21
+Bolivia,South America,2024,April,31
+Bolivia,South America,2024,February,17
+Bolivia,South America,2024,January,48
+Bolivia,South America,2024,June,32
+Bolivia,South America,2024,March,20
+Bolivia,South America,2024,May,27
+Bouvet Island,Antarctica,2020,April,0
+Bouvet Island,Antarctica,2020,August,0
+Bouvet Island,Antarctica,2020,December,0
+Bouvet Island,Antarctica,2020,February,0
+Bouvet Island,Antarctica,2020,January,0
+Bouvet Island,Antarctica,2020,July,0
+Bouvet Island,Antarctica,2020,June,0
+Bouvet Island,Antarctica,2020,March,0
+Bouvet Island,Antarctica,2020,May,0
+Bouvet Island,Antarctica,2020,November,0
+Bouvet Island,Antarctica,2020,October,0
+Bouvet Island,Antarctica,2020,September,0
+Bouvet Island,Antarctica,2021,April,0
+Bouvet Island,Antarctica,2021,August,0
+Bouvet Island,Antarctica,2021,December,0
+Bouvet Island,Antarctica,2021,February,0
+Bouvet Island,Antarctica,2021,January,0
+Bouvet Island,Antarctica,2021,July,0
+Bouvet Island,Antarctica,2021,June,0
+Bouvet Island,Antarctica,2021,March,0
+Bouvet Island,Antarctica,2021,May,0
+Bouvet Island,Antarctica,2021,November,0
+Bouvet Island,Antarctica,2021,October,0
+Bouvet Island,Antarctica,2021,September,0
+Bouvet Island,Antarctica,2022,April,0
+Bouvet Island,Antarctica,2022,August,0
+Bouvet Island,Antarctica,2022,December,0
+Bouvet Island,Antarctica,2022,February,0
+Bouvet Island,Antarctica,2022,January,0
+Bouvet Island,Antarctica,2022,July,0
+Bouvet Island,Antarctica,2022,June,0
+Bouvet Island,Antarctica,2022,March,0
+Bouvet Island,Antarctica,2022,May,0
+Bouvet Island,Antarctica,2022,November,0
+Bouvet Island,Antarctica,2022,October,0
+Bouvet Island,Antarctica,2022,September,0
+Bouvet Island,Antarctica,2023,April,0
+Bouvet Island,Antarctica,2023,August,0
+Bouvet Island,Antarctica,2023,December,1
+Bouvet Island,Antarctica,2023,February,0
+Bouvet Island,Antarctica,2023,January,0
+Bouvet Island,Antarctica,2023,July,0
+Bouvet Island,Antarctica,2023,June,0
+Bouvet Island,Antarctica,2023,March,0
+Bouvet Island,Antarctica,2023,May,0
+Bouvet Island,Antarctica,2023,November,0
+Bouvet Island,Antarctica,2023,October,0
+Bouvet Island,Antarctica,2023,September,0
+Bouvet Island,Antarctica,2024,April,0
+Bouvet Island,Antarctica,2024,February,0
+Bouvet Island,Antarctica,2024,January,0
+Bouvet Island,Antarctica,2024,June,0
+Bouvet Island,Antarctica,2024,March,0
+Bouvet Island,Antarctica,2024,May,0
+Brazil,South America,2020,April,0
+Brazil,South America,2020,August,7
+Brazil,South America,2020,December,13
+Brazil,South America,2020,February,1405
+Brazil,South America,2020,January,2005
+Brazil,South America,2020,July,16
+Brazil,South America,2020,June,2
+Brazil,South America,2020,March,664
+Brazil,South America,2020,May,12
+Brazil,South America,2020,November,5
+Brazil,South America,2020,October,10
+Brazil,South America,2020,September,5
+Brazil,South America,2021,April,27
+Brazil,South America,2021,August,20
+Brazil,South America,2021,December,34
+Brazil,South America,2021,February,42
+Brazil,South America,2021,January,35
+Brazil,South America,2021,July,21
+Brazil,South America,2021,June,15
+Brazil,South America,2021,March,18
+Brazil,South America,2021,May,20
+Brazil,South America,2021,November,32
+Brazil,South America,2021,October,29
+Brazil,South America,2021,September,11
+Brazil,South America,2022,April,361
+Brazil,South America,2022,August,890
+Brazil,South America,2022,December,917
+Brazil,South America,2022,February,63
+Brazil,South America,2022,January,131
+Brazil,South America,2022,July,769
+Brazil,South America,2022,June,507
+Brazil,South America,2022,March,66
+Brazil,South America,2022,May,570
+Brazil,South America,2022,November,866
+Brazil,South America,2022,October,961
+Brazil,South America,2022,September,873
+Brazil,South America,2023,April,1309
+Brazil,South America,2023,August,1304
+Brazil,South America,2023,December,1721
+Brazil,South America,2023,February,968
+Brazil,South America,2023,January,1255
+Brazil,South America,2023,July,1268
+Brazil,South America,2023,June,815
+Brazil,South America,2023,March,1170
+Brazil,South America,2023,May,1131
+Brazil,South America,2023,November,1481
+Brazil,South America,2023,October,1378
+Brazil,South America,2023,September,1339
+Brazil,South America,2024,April,1519
+Brazil,South America,2024,February,1475
+Brazil,South America,2024,January,1915
+Brazil,South America,2024,June,1353
+Brazil,South America,2024,March,1677
+Brazil,South America,2024,May,1381
+Brunei Darussalam,Asia,2020,April,254
+Brunei Darussalam,Asia,2020,August,219
+Brunei Darussalam,Asia,2020,December,386
+Brunei Darussalam,Asia,2020,February,64729
+Brunei Darussalam,Asia,2020,January,88501
+Brunei Darussalam,Asia,2020,July,350
+Brunei Darussalam,Asia,2020,June,465
+Brunei Darussalam,Asia,2020,March,31596
+Brunei Darussalam,Asia,2020,May,330
+Brunei Darussalam,Asia,2020,November,334
+Brunei Darussalam,Asia,2020,October,228
+Brunei Darussalam,Asia,2020,September,396
+Brunei Darussalam,Asia,2021,April,411
+Brunei Darussalam,Asia,2021,August,309
+Brunei Darussalam,Asia,2021,December,403
+Brunei Darussalam,Asia,2021,February,362
+Brunei Darussalam,Asia,2021,January,337
+Brunei Darussalam,Asia,2021,July,421
+Brunei Darussalam,Asia,2021,June,316
+Brunei Darussalam,Asia,2021,March,451
+Brunei Darussalam,Asia,2021,May,290
+Brunei Darussalam,Asia,2021,November,353
+Brunei Darussalam,Asia,2021,October,237
+Brunei Darussalam,Asia,2021,September,272
+Brunei Darussalam,Asia,2022,April,1247
+Brunei Darussalam,Asia,2022,August,36953
+Brunei Darussalam,Asia,2022,December,149927
+Brunei Darussalam,Asia,2022,February,371
+Brunei Darussalam,Asia,2022,January,505
+Brunei Darussalam,Asia,2022,July,10594
+Brunei Darussalam,Asia,2022,June,4165
+Brunei Darussalam,Asia,2022,March,522
+Brunei Darussalam,Asia,2022,May,3094
+Brunei Darussalam,Asia,2022,November,65540
+Brunei Darussalam,Asia,2022,October,64041
+Brunei Darussalam,Asia,2022,September,61332
+Brunei Darussalam,Asia,2023,April,122931
+Brunei Darussalam,Asia,2023,August,76670
+Brunei Darussalam,Asia,2023,December,170217
+Brunei Darussalam,Asia,2023,February,91480
+Brunei Darussalam,Asia,2023,January,93125
+Brunei Darussalam,Asia,2023,July,85713
+Brunei Darussalam,Asia,2023,June,76368
+Brunei Darussalam,Asia,2023,March,97143
+Brunei Darussalam,Asia,2023,May,90639
+Brunei Darussalam,Asia,2023,November,73474
+Brunei Darussalam,Asia,2023,October,64757
+Brunei Darussalam,Asia,2023,September,70708
+Brunei Darussalam,Asia,2024,April,168967
+Brunei Darussalam,Asia,2024,February,140506
+Brunei Darussalam,Asia,2024,January,125804
+Brunei Darussalam,Asia,2024,June,138729
+Brunei Darussalam,Asia,2024,March,166490
+Brunei Darussalam,Asia,2024,May,144782
+Canada,North America,2020,April,2
+Canada,North America,2020,August,52
+Canada,North America,2020,December,35
+Canada,North America,2020,February,6993
+Canada,North America,2020,January,9478
+Canada,North America,2020,July,37
+Canada,North America,2020,June,15
+Canada,North America,2020,March,2777
+Canada,North America,2020,May,20
+Canada,North America,2020,November,52
+Canada,North America,2020,October,43
+Canada,North America,2020,September,70
+Canada,North America,2021,April,36
+Canada,North America,2021,August,80
+Canada,North America,2021,December,186
+Canada,North America,2021,February,32
+Canada,North America,2021,January,83
+Canada,North America,2021,July,81
+Canada,North America,2021,June,29
+Canada,North America,2021,March,37
+Canada,North America,2021,May,28
+Canada,North America,2021,November,85
+Canada,North America,2021,October,68
+Canada,North America,2021,September,59
+Canada,North America,2022,April,1609
+Canada,North America,2022,August,4214
+Canada,North America,2022,December,5908
+Canada,North America,2022,February,165
+Canada,North America,2022,January,260
+Canada,North America,2022,July,3688
+Canada,North America,2022,June,2639
+Canada,North America,2022,March,275
+Canada,North America,2022,May,2341
+Canada,North America,2022,November,5730
+Canada,North America,2022,October,5409
+Canada,North America,2022,September,4172
+Canada,North America,2023,April,6667
+Canada,North America,2023,August,6686
+Canada,North America,2023,December,9477
+Canada,North America,2023,February,7559
+Canada,North America,2023,January,7314
+Canada,North America,2023,July,7138
+Canada,North America,2023,June,4434
+Canada,North America,2023,March,7932
+Canada,North America,2023,May,6642
+Canada,North America,2023,November,7788
+Canada,North America,2023,October,7096
+Canada,North America,2023,September,6035
+Canada,North America,2024,April,7907
+Canada,North America,2024,February,9897
+Canada,North America,2024,January,9514
+Canada,North America,2024,June,6424
+Canada,North America,2024,March,9840
+Canada,North America,2024,May,6979
+Chile,South America,2020,April,0
+Chile,South America,2020,August,2
+Chile,South America,2020,December,1
+Chile,South America,2020,February,592
+Chile,South America,2020,January,506
+Chile,South America,2020,July,0
+Chile,South America,2020,June,0
+Chile,South America,2020,March,212
+Chile,South America,2020,May,0
+Chile,South America,2020,November,0
+Chile,South America,2020,October,4
+Chile,South America,2020,September,1
+Chile,South America,2021,April,1
+Chile,South America,2021,August,4
+Chile,South America,2021,December,9
+Chile,South America,2021,February,2
+Chile,South America,2021,January,1
+Chile,South America,2021,July,1
+Chile,South America,2021,June,0
+Chile,South America,2021,March,0
+Chile,South America,2021,May,1
+Chile,South America,2021,November,2
+Chile,South America,2021,October,15
+Chile,South America,2021,September,1
+Chile,South America,2022,April,46
+Chile,South America,2022,August,152
+Chile,South America,2022,December,152
+Chile,South America,2022,February,3
+Chile,South America,2022,January,18
+Chile,South America,2022,July,144
+Chile,South America,2022,June,132
+Chile,South America,2022,March,9
+Chile,South America,2022,May,95
+Chile,South America,2022,November,168
+Chile,South America,2022,October,186
+Chile,South America,2022,September,146
+Chile,South America,2023,April,253
+Chile,South America,2023,August,373
+Chile,South America,2023,December,341
+Chile,South America,2023,February,330
+Chile,South America,2023,January,242
+Chile,South America,2023,July,268
+Chile,South America,2023,June,190
+Chile,South America,2023,March,247
+Chile,South America,2023,May,269
+Chile,South America,2023,November,375
+Chile,South America,2023,October,310
+Chile,South America,2023,September,312
+Chile,South America,2024,April,389
+Chile,South America,2024,February,619
+Chile,South America,2024,January,530
+Chile,South America,2024,June,407
+Chile,South America,2024,March,476
+Chile,South America,2024,May,360
+China,Asia,2020,April,60
+China,Asia,2020,August,621
+China,Asia,2020,December,1034
+China,Asia,2020,February,70865
+China,Asia,2020,January,285958
+China,Asia,2020,July,505
+China,Asia,2020,June,196
+China,Asia,2020,March,31765
+China,Asia,2020,May,23
+China,Asia,2020,November,1633
+China,Asia,2020,October,1289
+China,Asia,2020,September,864
+China,Asia,2021,April,1675
+China,Asia,2021,August,806
+China,Asia,2021,December,2384
+China,Asia,2021,February,854
+China,Asia,2021,January,1106
+China,Asia,2021,July,873
+China,Asia,2021,June,812
+China,Asia,2021,March,1887
+China,Asia,2021,May,1501
+China,Asia,2021,November,1377
+China,Asia,2021,October,1196
+China,Asia,2021,September,1084
+China,Asia,2022,April,9545
+China,Asia,2022,August,32301
+China,Asia,2022,December,53998
+China,Asia,2022,February,3185
+China,Asia,2022,January,2052
+China,Asia,2022,July,30250
+China,Asia,2022,June,22784
+China,Asia,2022,March,3412
+China,Asia,2022,May,16335
+China,Asia,2022,November,41360
+China,Asia,2022,October,41187
+China,Asia,2022,September,37902
+China,Asia,2023,April,124583
+China,Asia,2023,August,205942
+China,Asia,2023,December,179394
+China,Asia,2023,February,64892
+China,Asia,2023,January,57290
+China,Asia,2023,July,212546
+China,Asia,2023,June,109815
+China,Asia,2023,March,102774
+China,Asia,2023,May,133136
+China,Asia,2023,November,140694
+China,Asia,2023,October,158682
+China,Asia,2023,September,171971
+China,Asia,2024,April,228426
+China,Asia,2024,February,342003
+China,Asia,2024,January,228900
+China,Asia,2024,June,310204
+China,Asia,2024,March,262826
+China,Asia,2024,May,269256
+Colombia,South America,2020,April,0
+Colombia,South America,2020,August,0
+Colombia,South America,2020,December,4
+Colombia,South America,2020,February,137
+Colombia,South America,2020,January,247
+Colombia,South America,2020,July,3
+Colombia,South America,2020,June,0
+Colombia,South America,2020,March,59
+Colombia,South America,2020,May,0
+Colombia,South America,2020,November,3
+Colombia,South America,2020,October,1
+Colombia,South America,2020,September,0
+Colombia,South America,2021,April,7
+Colombia,South America,2021,August,7
+Colombia,South America,2021,December,10
+Colombia,South America,2021,February,5
+Colombia,South America,2021,January,6
+Colombia,South America,2021,July,5
+Colombia,South America,2021,June,1
+Colombia,South America,2021,March,10
+Colombia,South America,2021,May,4
+Colombia,South America,2021,November,5
+Colombia,South America,2021,October,7
+Colombia,South America,2021,September,9
+Colombia,South America,2022,April,52
+Colombia,South America,2022,August,115
+Colombia,South America,2022,December,152
+Colombia,South America,2022,February,10
+Colombia,South America,2022,January,37
+Colombia,South America,2022,July,126
+Colombia,South America,2022,June,78
+Colombia,South America,2022,March,14
+Colombia,South America,2022,May,127
+Colombia,South America,2022,November,153
+Colombia,South America,2022,October,244
+Colombia,South America,2022,September,139
+Colombia,South America,2023,April,204
+Colombia,South America,2023,August,241
+Colombia,South America,2023,December,271
+Colombia,South America,2023,February,130
+Colombia,South America,2023,January,224
+Colombia,South America,2023,July,251
+Colombia,South America,2023,June,185
+Colombia,South America,2023,March,165
+Colombia,South America,2023,May,233
+Colombia,South America,2023,November,220
+Colombia,South America,2023,October,306
+Colombia,South America,2023,September,429
+Colombia,South America,2024,April,301
+Colombia,South America,2024,February,204
+Colombia,South America,2024,January,325
+Colombia,South America,2024,June,280
+Colombia,South America,2024,March,307
+Colombia,South America,2024,May,229
+Costa Rica,North America,2020,April,0
+Costa Rica,North America,2020,August,3
+Costa Rica,North America,2020,December,1
+Costa Rica,North America,2020,February,75
+Costa Rica,North America,2020,January,87
+Costa Rica,North America,2020,July,0
+Costa Rica,North America,2020,June,0
+Costa Rica,North America,2020,March,23
+Costa Rica,North America,2020,May,0
+Costa Rica,North America,2020,November,0
+Costa Rica,North America,2020,October,3
+Costa Rica,North America,2020,September,0
+Costa Rica,North America,2021,April,1
+Costa Rica,North America,2021,August,0
+Costa Rica,North America,2021,December,1
+Costa Rica,North America,2021,February,18
+Costa Rica,North America,2021,January,21
+Costa Rica,North America,2021,July,3
+Costa Rica,North America,2021,June,1
+Costa Rica,North America,2021,March,4
+Costa Rica,North America,2021,May,37
+Costa Rica,North America,2021,November,3
+Costa Rica,North America,2021,October,2
+Costa Rica,North America,2021,September,0
+Costa Rica,North America,2022,April,21
+Costa Rica,North America,2022,August,43
+Costa Rica,North America,2022,December,43
+Costa Rica,North America,2022,February,5
+Costa Rica,North America,2022,January,17
+Costa Rica,North America,2022,July,44
+Costa Rica,North America,2022,June,31
+Costa Rica,North America,2022,March,4
+Costa Rica,North America,2022,May,33
+Costa Rica,North America,2022,November,53
+Costa Rica,North America,2022,October,94
+Costa Rica,North America,2022,September,61
+Costa Rica,North America,2023,April,96
+Costa Rica,North America,2023,August,82
+Costa Rica,North America,2023,December,81
+Costa Rica,North America,2023,February,50
+Costa Rica,North America,2023,January,73
+Costa Rica,North America,2023,July,94
+Costa Rica,North America,2023,June,45
+Costa Rica,North America,2023,March,66
+Costa Rica,North America,2023,May,62
+Costa Rica,North America,2023,November,80
+Costa Rica,North America,2023,October,99
+Costa Rica,North America,2023,September,94
+Costa Rica,North America,2024,April,92
+Costa Rica,North America,2024,February,90
+Costa Rica,North America,2024,January,153
+Costa Rica,North America,2024,June,68
+Costa Rica,North America,2024,March,132
+Costa Rica,North America,2024,May,80
+Cuba,North America,2020,April,0
+Cuba,North America,2020,August,0
+Cuba,North America,2020,December,0
+Cuba,North America,2020,February,37
+Cuba,North America,2020,January,48
+Cuba,North America,2020,July,0
+Cuba,North America,2020,June,0
+Cuba,North America,2020,March,12
+Cuba,North America,2020,May,0
+Cuba,North America,2020,November,0
+Cuba,North America,2020,October,0
+Cuba,North America,2020,September,0
+Cuba,North America,2021,April,0
+Cuba,North America,2021,August,0
+Cuba,North America,2021,December,2
+Cuba,North America,2021,February,0
+Cuba,North America,2021,January,0
+Cuba,North America,2021,July,0
+Cuba,North America,2021,June,0
+Cuba,North America,2021,March,2
+Cuba,North America,2021,May,0
+Cuba,North America,2021,November,0
+Cuba,North America,2021,October,0
+Cuba,North America,2021,September,0
+Cuba,North America,2022,April,5
+Cuba,North America,2022,August,20
+Cuba,North America,2022,December,55
+Cuba,North America,2022,February,0
+Cuba,North America,2022,January,5
+Cuba,North America,2022,July,23
+Cuba,North America,2022,June,6
+Cuba,North America,2022,March,0
+Cuba,North America,2022,May,14
+Cuba,North America,2022,November,28
+Cuba,North America,2022,October,40
+Cuba,North America,2022,September,16
+Cuba,North America,2023,April,29
+Cuba,North America,2023,August,33
+Cuba,North America,2023,December,28
+Cuba,North America,2023,February,19
+Cuba,North America,2023,January,23
+Cuba,North America,2023,July,39
+Cuba,North America,2023,June,25
+Cuba,North America,2023,March,23
+Cuba,North America,2023,May,32
+Cuba,North America,2023,November,39
+Cuba,North America,2023,October,18
+Cuba,North America,2023,September,25
+Cuba,North America,2024,April,27
+Cuba,North America,2024,February,32
+Cuba,North America,2024,January,44
+Cuba,North America,2024,June,37
+Cuba,North America,2024,March,34
+Cuba,North America,2024,May,36
+Dominica,North America,2020,April,0
+Dominica,North America,2020,August,0
+Dominica,North America,2020,December,0
+Dominica,North America,2020,February,45
+Dominica,North America,2020,January,57
+Dominica,North America,2020,July,0
+Dominica,North America,2020,June,1
+Dominica,North America,2020,March,14
+Dominica,North America,2020,May,0
+Dominica,North America,2020,November,0
+Dominica,North America,2020,October,0
+Dominica,North America,2020,September,0
+Dominica,North America,2021,April,0
+Dominica,North America,2021,August,4
+Dominica,North America,2021,December,5
+Dominica,North America,2021,February,1
+Dominica,North America,2021,January,1
+Dominica,North America,2021,July,0
+Dominica,North America,2021,June,0
+Dominica,North America,2021,March,1
+Dominica,North America,2021,May,0
+Dominica,North America,2021,November,8
+Dominica,North America,2021,October,0
+Dominica,North America,2021,September,0
+Dominica,North America,2022,April,14
+Dominica,North America,2022,August,38
+Dominica,North America,2022,December,24
+Dominica,North America,2022,February,3
+Dominica,North America,2022,January,0
+Dominica,North America,2022,July,26
+Dominica,North America,2022,June,16
+Dominica,North America,2022,March,5
+Dominica,North America,2022,May,27
+Dominica,North America,2022,November,26
+Dominica,North America,2022,October,36
+Dominica,North America,2022,September,33
+Dominica,North America,2023,April,28
+Dominica,North America,2023,August,57
+Dominica,North America,2023,December,71
+Dominica,North America,2023,February,42
+Dominica,North America,2023,January,39
+Dominica,North America,2023,July,66
+Dominica,North America,2023,June,48
+Dominica,North America,2023,March,65
+Dominica,North America,2023,May,32
+Dominica,North America,2023,November,39
+Dominica,North America,2023,October,48
+Dominica,North America,2023,September,70
+Dominica,North America,2024,April,71
+Dominica,North America,2024,February,53
+Dominica,North America,2024,January,65
+Dominica,North America,2024,June,51
+Dominica,North America,2024,March,74
+Dominica,North America,2024,May,62
+Ecuador,South America,2020,April,0
+Ecuador,South America,2020,August,0
+Ecuador,South America,2020,December,1
+Ecuador,South America,2020,February,80
+Ecuador,South America,2020,January,107
+Ecuador,South America,2020,July,1
+Ecuador,South America,2020,June,1
+Ecuador,South America,2020,March,15
+Ecuador,South America,2020,May,0
+Ecuador,South America,2020,November,1
+Ecuador,South America,2020,October,0
+Ecuador,South America,2020,September,0
+Ecuador,South America,2021,April,1
+Ecuador,South America,2021,August,1
+Ecuador,South America,2021,December,3
+Ecuador,South America,2021,February,0
+Ecuador,South America,2021,January,0
+Ecuador,South America,2021,July,0
+Ecuador,South America,2021,June,0
+Ecuador,South America,2021,March,0
+Ecuador,South America,2021,May,2
+Ecuador,South America,2021,November,0
+Ecuador,South America,2021,October,1
+Ecuador,South America,2021,September,0
+Ecuador,South America,2022,April,28
+Ecuador,South America,2022,August,66
+Ecuador,South America,2022,December,51
+Ecuador,South America,2022,February,0
+Ecuador,South America,2022,January,2
+Ecuador,South America,2022,July,42
+Ecuador,South America,2022,June,29
+Ecuador,South America,2022,March,2
+Ecuador,South America,2022,May,31
+Ecuador,South America,2022,November,50
+Ecuador,South America,2022,October,99
+Ecuador,South America,2022,September,57
+Ecuador,South America,2023,April,94
+Ecuador,South America,2023,August,102
+Ecuador,South America,2023,December,104
+Ecuador,South America,2023,February,56
+Ecuador,South America,2023,January,38
+Ecuador,South America,2023,July,88
+Ecuador,South America,2023,June,64
+Ecuador,South America,2023,March,81
+Ecuador,South America,2023,May,60
+Ecuador,South America,2023,November,123
+Ecuador,South America,2023,October,82
+Ecuador,South America,2023,September,148
+Ecuador,South America,2024,April,137
+Ecuador,South America,2024,February,86
+Ecuador,South America,2024,January,78
+Ecuador,South America,2024,June,121
+Ecuador,South America,2024,March,90
+Ecuador,South America,2024,May,95
+Egypt,Africa,2020,April,8
+Egypt,Africa,2020,August,30
+Egypt,Africa,2020,December,50
+Egypt,Africa,2020,February,2862
+Egypt,Africa,2020,January,3079
+Egypt,Africa,2020,July,27
+Egypt,Africa,2020,June,3
+Egypt,Africa,2020,March,763
+Egypt,Africa,2020,May,13
+Egypt,Africa,2020,November,28
+Egypt,Africa,2020,October,53
+Egypt,Africa,2020,September,35
+Egypt,Africa,2021,April,98
+Egypt,Africa,2021,August,81
+Egypt,Africa,2021,December,271
+Egypt,Africa,2021,February,56
+Egypt,Africa,2021,January,40
+Egypt,Africa,2021,July,52
+Egypt,Africa,2021,June,50
+Egypt,Africa,2021,March,114
+Egypt,Africa,2021,May,76
+Egypt,Africa,2021,November,213
+Egypt,Africa,2021,October,165
+Egypt,Africa,2021,September,73
+Egypt,Africa,2022,April,648
+Egypt,Africa,2022,August,1915
+Egypt,Africa,2022,December,1634
+Egypt,Africa,2022,February,270
+Egypt,Africa,2022,January,342
+Egypt,Africa,2022,July,1290
+Egypt,Africa,2022,June,1136
+Egypt,Africa,2022,March,234
+Egypt,Africa,2022,May,1266
+Egypt,Africa,2022,November,1525
+Egypt,Africa,2022,October,2073
+Egypt,Africa,2022,September,1999
+Egypt,Africa,2023,April,1665
+Egypt,Africa,2023,August,2828
+Egypt,Africa,2023,December,2413
+Egypt,Africa,2023,February,1777
+Egypt,Africa,2023,January,1669
+Egypt,Africa,2023,July,2320
+Egypt,Africa,2023,June,1864
+Egypt,Africa,2023,March,1556
+Egypt,Africa,2023,May,2121
+Egypt,Africa,2023,November,2218
+Egypt,Africa,2023,October,2590
+Egypt,Africa,2023,September,2648
+Egypt,Africa,2024,April,1958
+Egypt,Africa,2024,February,2712
+Egypt,Africa,2024,January,2392
+Egypt,Africa,2024,June,2569
+Egypt,Africa,2024,March,1450
+Egypt,Africa,2024,May,2031
+Fiji,Oceania,2020,April,0
+Fiji,Oceania,2020,August,1
+Fiji,Oceania,2020,December,5
+Fiji,Oceania,2020,February,112
+Fiji,Oceania,2020,January,237
+Fiji,Oceania,2020,July,0
+Fiji,Oceania,2020,June,0
+Fiji,Oceania,2020,March,29
+Fiji,Oceania,2020,May,0
+Fiji,Oceania,2020,November,1
+Fiji,Oceania,2020,October,0
+Fiji,Oceania,2020,September,0
+Fiji,Oceania,2021,April,1
+Fiji,Oceania,2021,August,0
+Fiji,Oceania,2021,December,6
+Fiji,Oceania,2021,February,0
+Fiji,Oceania,2021,January,0
+Fiji,Oceania,2021,July,0
+Fiji,Oceania,2021,June,0
+Fiji,Oceania,2021,March,1
+Fiji,Oceania,2021,May,0
+Fiji,Oceania,2021,November,2
+Fiji,Oceania,2021,October,0
+Fiji,Oceania,2021,September,0
+Fiji,Oceania,2022,April,29
+Fiji,Oceania,2022,August,87
+Fiji,Oceania,2022,December,167
+Fiji,Oceania,2022,February,4
+Fiji,Oceania,2022,January,2
+Fiji,Oceania,2022,July,105
+Fiji,Oceania,2022,June,72
+Fiji,Oceania,2022,March,3
+Fiji,Oceania,2022,May,35
+Fiji,Oceania,2022,November,109
+Fiji,Oceania,2022,October,181
+Fiji,Oceania,2022,September,134
+Fiji,Oceania,2023,April,177
+Fiji,Oceania,2023,August,256
+Fiji,Oceania,2023,December,489
+Fiji,Oceania,2023,February,105
+Fiji,Oceania,2023,January,139
+Fiji,Oceania,2023,July,215
+Fiji,Oceania,2023,June,185
+Fiji,Oceania,2023,March,150
+Fiji,Oceania,2023,May,210
+Fiji,Oceania,2023,November,189
+Fiji,Oceania,2023,October,239
+Fiji,Oceania,2023,September,325
+Fiji,Oceania,2024,April,228
+Fiji,Oceania,2024,February,117
+Fiji,Oceania,2024,January,329
+Fiji,Oceania,2024,June,167
+Fiji,Oceania,2024,March,159
+Fiji,Oceania,2024,May,369
+France,Europe,2020,April,3
+France,Europe,2020,August,121
+France,Europe,2020,December,58
+France,Europe,2020,February,14414
+France,Europe,2020,January,12753
+France,Europe,2020,July,64
+France,Europe,2020,June,26
+France,Europe,2020,March,6280
+France,Europe,2020,May,7
+France,Europe,2020,November,46
+France,Europe,2020,October,80
+France,Europe,2020,September,87
+France,Europe,2021,April,68
+France,Europe,2021,August,423
+France,Europe,2021,December,398
+France,Europe,2021,February,52
+France,Europe,2021,January,119
+France,Europe,2021,July,102
+France,Europe,2021,June,50
+France,Europe,2021,March,79
+France,Europe,2021,May,80
+France,Europe,2021,November,171
+France,Europe,2021,October,185
+France,Europe,2021,September,250
+France,Europe,2022,April,3129
+France,Europe,2022,August,13949
+France,Europe,2022,December,7267
+France,Europe,2022,February,413
+France,Europe,2022,January,677
+France,Europe,2022,July,9552
+France,Europe,2022,June,4908
+France,Europe,2022,March,630
+France,Europe,2022,May,4967
+France,Europe,2022,November,7046
+France,Europe,2022,October,9373
+France,Europe,2022,September,8145
+France,Europe,2023,April,10501
+France,Europe,2023,August,19840
+France,Europe,2023,December,10954
+France,Europe,2023,February,10655
+France,Europe,2023,January,9004
+France,Europe,2023,July,18945
+France,Europe,2023,June,8143
+France,Europe,2023,March,11311
+France,Europe,2023,May,10627
+France,Europe,2023,November,10388
+France,Europe,2023,October,11030
+France,Europe,2023,September,10430
+France,Europe,2024,April,14838
+France,Europe,2024,February,17370
+France,Europe,2024,January,14055
+France,Europe,2024,June,13429
+France,Europe,2024,March,15009
+France,Europe,2024,May,13475
+Germany,Europe,2020,April,6
+Germany,Europe,2020,August,67
+Germany,Europe,2020,December,35
+Germany,Europe,2020,February,12386
+Germany,Europe,2020,January,11673
+Germany,Europe,2020,July,117
+Germany,Europe,2020,June,19
+Germany,Europe,2020,March,6590
+Germany,Europe,2020,May,4
+Germany,Europe,2020,November,55
+Germany,Europe,2020,October,112
+Germany,Europe,2020,September,73
+Germany,Europe,2021,April,104
+Germany,Europe,2021,August,118
+Germany,Europe,2021,December,371
+Germany,Europe,2021,February,66
+Germany,Europe,2021,January,97
+Germany,Europe,2021,July,82
+Germany,Europe,2021,June,51
+Germany,Europe,2021,March,94
+Germany,Europe,2021,May,68
+Germany,Europe,2021,November,171
+Germany,Europe,2021,October,131
+Germany,Europe,2021,September,159
+Germany,Europe,2022,April,2796
+Germany,Europe,2022,August,9555
+Germany,Europe,2022,December,11699
+Germany,Europe,2022,February,351
+Germany,Europe,2022,January,449
+Germany,Europe,2022,July,7806
+Germany,Europe,2022,June,5064
+Germany,Europe,2022,March,512
+Germany,Europe,2022,May,4394
+Germany,Europe,2022,November,8530
+Germany,Europe,2022,October,8811
+Germany,Europe,2022,September,8309
+Germany,Europe,2023,April,10770
+Germany,Europe,2023,August,13152
+Germany,Europe,2023,December,16543
+Germany,Europe,2023,February,14047
+Germany,Europe,2023,January,12512
+Germany,Europe,2023,July,11911
+Germany,Europe,2023,June,7307
+Germany,Europe,2023,March,13048
+Germany,Europe,2023,May,11331
+Germany,Europe,2023,November,11746
+Germany,Europe,2023,October,10969
+Germany,Europe,2023,September,11381
+Germany,Europe,2024,April,14749
+Germany,Europe,2024,February,23326
+Germany,Europe,2024,January,14112
+Germany,Europe,2024,June,9580
+Germany,Europe,2024,March,18690
+Germany,Europe,2024,May,13309
+Guatemala,North America,2020,April,0
+Guatemala,North America,2020,August,0
+Guatemala,North America,2020,December,0
+Guatemala,North America,2020,February,17
+Guatemala,North America,2020,January,27
+Guatemala,North America,2020,July,0
+Guatemala,North America,2020,June,0
+Guatemala,North America,2020,March,2
+Guatemala,North America,2020,May,0
+Guatemala,North America,2020,November,0
+Guatemala,North America,2020,October,0
+Guatemala,North America,2020,September,0
+Guatemala,North America,2021,April,0
+Guatemala,North America,2021,August,0
+Guatemala,North America,2021,December,0
+Guatemala,North America,2021,February,0
+Guatemala,North America,2021,January,0
+Guatemala,North America,2021,July,0
+Guatemala,North America,2021,June,1
+Guatemala,North America,2021,March,0
+Guatemala,North America,2021,May,0
+Guatemala,North America,2021,November,0
+Guatemala,North America,2021,October,2
+Guatemala,North America,2021,September,0
+Guatemala,North America,2022,April,7
+Guatemala,North America,2022,August,12
+Guatemala,North America,2022,December,16
+Guatemala,North America,2022,February,1
+Guatemala,North America,2022,January,1
+Guatemala,North America,2022,July,10
+Guatemala,North America,2022,June,15
+Guatemala,North America,2022,March,2
+Guatemala,North America,2022,May,14
+Guatemala,North America,2022,November,16
+Guatemala,North America,2022,October,13
+Guatemala,North America,2022,September,11
+Guatemala,North America,2023,April,75
+Guatemala,North America,2023,August,23
+Guatemala,North America,2023,December,47
+Guatemala,North America,2023,February,23
+Guatemala,North America,2023,January,20
+Guatemala,North America,2023,July,24
+Guatemala,North America,2023,June,18
+Guatemala,North America,2023,March,32
+Guatemala,North America,2023,May,26
+Guatemala,North America,2023,November,77
+Guatemala,North America,2023,October,48
+Guatemala,North America,2023,September,63
+Guatemala,North America,2024,April,30
+Guatemala,North America,2024,February,29
+Guatemala,North America,2024,January,24
+Guatemala,North America,2024,June,34
+Guatemala,North America,2024,March,36
+Guatemala,North America,2024,May,31
+Heard and McDonald Islands,Antarctica,2020,April,0
+Heard and McDonald Islands,Antarctica,2020,August,0
+Heard and McDonald Islands,Antarctica,2020,December,0
+Heard and McDonald Islands,Antarctica,2020,February,0
+Heard and McDonald Islands,Antarctica,2020,January,0
+Heard and McDonald Islands,Antarctica,2020,July,0
+Heard and McDonald Islands,Antarctica,2020,June,0
+Heard and McDonald Islands,Antarctica,2020,March,0
+Heard and McDonald Islands,Antarctica,2020,May,0
+Heard and McDonald Islands,Antarctica,2020,November,0
+Heard and McDonald Islands,Antarctica,2020,October,0
+Heard and McDonald Islands,Antarctica,2020,September,0
+Heard and McDonald Islands,Antarctica,2021,April,0
+Heard and McDonald Islands,Antarctica,2021,August,0
+Heard and McDonald Islands,Antarctica,2021,December,0
+Heard and McDonald Islands,Antarctica,2021,February,0
+Heard and McDonald Islands,Antarctica,2021,January,0
+Heard and McDonald Islands,Antarctica,2021,July,0
+Heard and McDonald Islands,Antarctica,2021,June,0
+Heard and McDonald Islands,Antarctica,2021,March,0
+Heard and McDonald Islands,Antarctica,2021,May,0
+Heard and McDonald Islands,Antarctica,2021,November,0
+Heard and McDonald Islands,Antarctica,2021,October,0
+Heard and McDonald Islands,Antarctica,2021,September,0
+Heard and McDonald Islands,Antarctica,2022,April,0
+Heard and McDonald Islands,Antarctica,2022,August,0
+Heard and McDonald Islands,Antarctica,2022,December,0
+Heard and McDonald Islands,Antarctica,2022,February,0
+Heard and McDonald Islands,Antarctica,2022,January,0
+Heard and McDonald Islands,Antarctica,2022,July,0
+Heard and McDonald Islands,Antarctica,2022,June,0
+Heard and McDonald Islands,Antarctica,2022,March,0
+Heard and McDonald Islands,Antarctica,2022,May,0
+Heard and McDonald Islands,Antarctica,2022,November,0
+Heard and McDonald Islands,Antarctica,2022,October,0
+Heard and McDonald Islands,Antarctica,2022,September,0
+Heard and McDonald Islands,Antarctica,2023,April,0
+Heard and McDonald Islands,Antarctica,2023,August,1
+Heard and McDonald Islands,Antarctica,2023,December,0
+Heard and McDonald Islands,Antarctica,2023,February,0
+Heard and McDonald Islands,Antarctica,2023,January,0
+Heard and McDonald Islands,Antarctica,2023,July,0
+Heard and McDonald Islands,Antarctica,2023,June,0
+Heard and McDonald Islands,Antarctica,2023,March,0
+Heard and McDonald Islands,Antarctica,2023,May,0
+Heard and McDonald Islands,Antarctica,2023,November,0
+Heard and McDonald Islands,Antarctica,2023,October,0
+Heard and McDonald Islands,Antarctica,2023,September,0
+Heard and McDonald Islands,Antarctica,2024,April,0
+Heard and McDonald Islands,Antarctica,2024,February,0
+Heard and McDonald Islands,Antarctica,2024,January,0
+Heard and McDonald Islands,Antarctica,2024,June,0
+Heard and McDonald Islands,Antarctica,2024,March,0
+Heard and McDonald Islands,Antarctica,2024,May,0
+India,Asia,2020,April,47
+India,Asia,2020,August,765
+India,Asia,2020,December,490
+India,Asia,2020,February,72196
+India,Asia,2020,January,98666
+India,Asia,2020,July,771
+India,Asia,2020,June,73
+India,Asia,2020,March,27210
+India,Asia,2020,May,38
+India,Asia,2020,November,427
+India,Asia,2020,October,392
+India,Asia,2020,September,556
+India,Asia,2021,April,1467
+India,Asia,2021,August,68
+India,Asia,2021,December,6356
+India,Asia,2021,February,961
+India,Asia,2021,January,757
+India,Asia,2021,July,48
+India,Asia,2021,June,29
+India,Asia,2021,March,1559
+India,Asia,2021,May,39
+India,Asia,2021,November,2072
+India,Asia,2021,October,945
+India,Asia,2021,September,184
+India,Asia,2022,April,16933
+India,Asia,2022,August,56061
+India,Asia,2022,December,61947
+India,Asia,2022,February,5195
+India,Asia,2022,January,6884
+India,Asia,2022,July,52831
+India,Asia,2022,June,46684
+India,Asia,2022,March,4382
+India,Asia,2022,May,35058
+India,Asia,2022,November,60636
+India,Asia,2022,October,68315
+India,Asia,2022,September,57400
+India,Asia,2023,April,72977
+India,Asia,2023,August,82385
+India,Asia,2023,December,112406
+India,Asia,2023,February,52314
+India,Asia,2023,January,56008
+India,Asia,2023,July,78681
+India,Asia,2023,June,69771
+India,Asia,2023,March,62188
+India,Asia,2023,May,90955
+India,Asia,2023,November,71786
+India,Asia,2023,October,83044
+India,Asia,2023,September,98033
+India,Asia,2024,April,114593
+India,Asia,2024,February,89745
+India,Asia,2024,January,95116
+India,Asia,2024,June,147213
+India,Asia,2024,March,112442
+India,Asia,2024,May,166987
+Indonesia,Asia,2020,April,430
+Indonesia,Asia,2020,August,1289
+Indonesia,Asia,2020,December,1036
+Indonesia,Asia,2020,February,277827
+Indonesia,Asia,2020,January,373952
+Indonesia,Asia,2020,July,1742
+Indonesia,Asia,2020,June,728
+Indonesia,Asia,2020,March,131683
+Indonesia,Asia,2020,May,234
+Indonesia,Asia,2020,November,964
+Indonesia,Asia,2020,October,974
+Indonesia,Asia,2020,September,1372
+Indonesia,Asia,2021,April,1781
+Indonesia,Asia,2021,August,885
+Indonesia,Asia,2021,December,4365
+Indonesia,Asia,2021,February,1229
+Indonesia,Asia,2021,January,1123
+Indonesia,Asia,2021,July,1126
+Indonesia,Asia,2021,June,905
+Indonesia,Asia,2021,March,2090
+Indonesia,Asia,2021,May,1331
+Indonesia,Asia,2021,November,2502
+Indonesia,Asia,2021,October,1514
+Indonesia,Asia,2021,September,1197
+Indonesia,Asia,2022,April,35776
+Indonesia,Asia,2022,August,211750
+Indonesia,Asia,2022,December,296613
+Indonesia,Asia,2022,February,3954
+Indonesia,Asia,2022,January,4510
+Indonesia,Asia,2022,July,190578
+Indonesia,Asia,2022,June,163265
+Indonesia,Asia,2022,March,6511
+Indonesia,Asia,2022,May,109113
+Indonesia,Asia,2022,November,252338
+Indonesia,Asia,2022,October,248561
+Indonesia,Asia,2022,September,219069
+Indonesia,Asia,2023,April,292499
+Indonesia,Asia,2023,August,295132
+Indonesia,Asia,2023,December,403481
+Indonesia,Asia,2023,February,266259
+Indonesia,Asia,2023,January,300977
+Indonesia,Asia,2023,July,344760
+Indonesia,Asia,2023,June,275647
+Indonesia,Asia,2023,March,276253
+Indonesia,Asia,2023,May,326967
+Indonesia,Asia,2023,November,330886
+Indonesia,Asia,2023,October,313076
+Indonesia,Asia,2023,September,308884
+Indonesia,Asia,2024,April,377815
+Indonesia,Asia,2024,February,333625
+Indonesia,Asia,2024,January,381251
+Indonesia,Asia,2024,June,405489
+Indonesia,Asia,2024,March,315885
+Indonesia,Asia,2024,May,374653
+Italy,Europe,2020,April,2
+Italy,Europe,2020,August,18
+Italy,Europe,2020,December,16
+Italy,Europe,2020,February,4372
+Italy,Europe,2020,January,5614
+Italy,Europe,2020,July,32
+Italy,Europe,2020,June,4
+Italy,Europe,2020,March,1161
+Italy,Europe,2020,May,0
+Italy,Europe,2020,November,18
+Italy,Europe,2020,October,38
+Italy,Europe,2020,September,18
+Italy,Europe,2021,April,68
+Italy,Europe,2021,August,67
+Italy,Europe,2021,December,91
+Italy,Europe,2021,February,43
+Italy,Europe,2021,January,47
+Italy,Europe,2021,July,29
+Italy,Europe,2021,June,31
+Italy,Europe,2021,March,27
+Italy,Europe,2021,May,51
+Italy,Europe,2021,November,74
+Italy,Europe,2021,October,81
+Italy,Europe,2021,September,85
+Italy,Europe,2022,April,852
+Italy,Europe,2022,August,6300
+Italy,Europe,2022,December,2365
+Italy,Europe,2022,February,175
+Italy,Europe,2022,January,348
+Italy,Europe,2022,July,2586
+Italy,Europe,2022,June,1453
+Italy,Europe,2022,March,225
+Italy,Europe,2022,May,1313
+Italy,Europe,2022,November,2541
+Italy,Europe,2022,October,2880
+Italy,Europe,2022,September,2500
+Italy,Europe,2023,April,3251
+Italy,Europe,2023,August,15370
+Italy,Europe,2023,December,4768
+Italy,Europe,2023,February,3946
+Italy,Europe,2023,January,3766
+Italy,Europe,2023,July,5887
+Italy,Europe,2023,June,2491
+Italy,Europe,2023,March,3926
+Italy,Europe,2023,May,2837
+Italy,Europe,2023,November,4130
+Italy,Europe,2023,October,3446
+Italy,Europe,2023,September,4319
+Italy,Europe,2024,April,4527
+Italy,Europe,2024,February,5741
+Italy,Europe,2024,January,6340
+Italy,Europe,2024,June,4571
+Italy,Europe,2024,March,5348
+Italy,Europe,2024,May,3682
+Kenya,Africa,2020,April,0
+Kenya,Africa,2020,August,9
+Kenya,Africa,2020,December,4
+Kenya,Africa,2020,February,353
+Kenya,Africa,2020,January,535
+Kenya,Africa,2020,July,1
+Kenya,Africa,2020,June,0
+Kenya,Africa,2020,March,112
+Kenya,Africa,2020,May,0
+Kenya,Africa,2020,November,1
+Kenya,Africa,2020,October,6
+Kenya,Africa,2020,September,6
+Kenya,Africa,2021,April,18
+Kenya,Africa,2021,August,8
+Kenya,Africa,2021,December,37
+Kenya,Africa,2021,February,8
+Kenya,Africa,2021,January,9
+Kenya,Africa,2021,July,8
+Kenya,Africa,2021,June,6
+Kenya,Africa,2021,March,33
+Kenya,Africa,2021,May,37
+Kenya,Africa,2021,November,42
+Kenya,Africa,2021,October,15
+Kenya,Africa,2021,September,37
+Kenya,Africa,2022,April,118
+Kenya,Africa,2022,August,264
+Kenya,Africa,2022,December,447
+Kenya,Africa,2022,February,57
+Kenya,Africa,2022,January,115
+Kenya,Africa,2022,July,189
+Kenya,Africa,2022,June,187
+Kenya,Africa,2022,March,46
+Kenya,Africa,2022,May,182
+Kenya,Africa,2022,November,346
+Kenya,Africa,2022,October,305
+Kenya,Africa,2022,September,341
+Kenya,Africa,2023,April,459
+Kenya,Africa,2023,August,658
+Kenya,Africa,2023,December,926
+Kenya,Africa,2023,February,248
+Kenya,Africa,2023,January,329
+Kenya,Africa,2023,July,485
+Kenya,Africa,2023,June,346
+Kenya,Africa,2023,March,554
+Kenya,Africa,2023,May,373
+Kenya,Africa,2023,November,661
+Kenya,Africa,2023,October,590
+Kenya,Africa,2023,September,625
+Kenya,Africa,2024,April,416
+Kenya,Africa,2024,February,410
+Kenya,Africa,2024,January,475
+Kenya,Africa,2024,June,949
+Kenya,Africa,2024,March,389
+Kenya,Africa,2024,May,783
+Kiribati,Oceania,2020,April,0
+Kiribati,Oceania,2020,August,0
+Kiribati,Oceania,2020,December,8
+Kiribati,Oceania,2020,February,3
+Kiribati,Oceania,2020,January,5
+Kiribati,Oceania,2020,July,0
+Kiribati,Oceania,2020,June,0
+Kiribati,Oceania,2020,March,2
+Kiribati,Oceania,2020,May,0
+Kiribati,Oceania,2020,November,10
+Kiribati,Oceania,2020,October,12
+Kiribati,Oceania,2020,September,0
+Kiribati,Oceania,2021,April,0
+Kiribati,Oceania,2021,August,0
+Kiribati,Oceania,2021,December,0
+Kiribati,Oceania,2021,February,10
+Kiribati,Oceania,2021,January,6
+Kiribati,Oceania,2021,July,4
+Kiribati,Oceania,2021,June,5
+Kiribati,Oceania,2021,March,4
+Kiribati,Oceania,2021,May,11
+Kiribati,Oceania,2021,November,0
+Kiribati,Oceania,2021,October,0
+Kiribati,Oceania,2021,September,0
+Kiribati,Oceania,2022,April,0
+Kiribati,Oceania,2022,August,0
+Kiribati,Oceania,2022,December,0
+Kiribati,Oceania,2022,February,0
+Kiribati,Oceania,2022,January,0
+Kiribati,Oceania,2022,July,1
+Kiribati,Oceania,2022,June,0
+Kiribati,Oceania,2022,March,0
+Kiribati,Oceania,2022,May,0
+Kiribati,Oceania,2022,November,4
+Kiribati,Oceania,2022,October,0
+Kiribati,Oceania,2022,September,0
+Kiribati,Oceania,2023,April,1
+Kiribati,Oceania,2023,August,0
+Kiribati,Oceania,2023,December,8
+Kiribati,Oceania,2023,February,1
+Kiribati,Oceania,2023,January,0
+Kiribati,Oceania,2023,July,2
+Kiribati,Oceania,2023,June,0
+Kiribati,Oceania,2023,March,5
+Kiribati,Oceania,2023,May,1
+Kiribati,Oceania,2023,November,0
+Kiribati,Oceania,2023,October,0
+Kiribati,Oceania,2023,September,1
+Kiribati,Oceania,2024,April,2
+Kiribati,Oceania,2024,February,5
+Kiribati,Oceania,2024,January,5
+Kiribati,Oceania,2024,June,0
+Kiribati,Oceania,2024,March,0
+Kiribati,Oceania,2024,May,0
+Libya,Africa,2020,April,0
+Libya,Africa,2020,August,1
+Libya,Africa,2020,December,3
+Libya,Africa,2020,February,690
+Libya,Africa,2020,January,900
+Libya,Africa,2020,July,1
+Libya,Africa,2020,June,0
+Libya,Africa,2020,March,260
+Libya,Africa,2020,May,0
+Libya,Africa,2020,November,1
+Libya,Africa,2020,October,5
+Libya,Africa,2020,September,2
+Libya,Africa,2021,April,50
+Libya,Africa,2021,August,28
+Libya,Africa,2021,December,194
+Libya,Africa,2021,February,8
+Libya,Africa,2021,January,13
+Libya,Africa,2021,July,14
+Libya,Africa,2021,June,26
+Libya,Africa,2021,March,66
+Libya,Africa,2021,May,35
+Libya,Africa,2021,November,58
+Libya,Africa,2021,October,76
+Libya,Africa,2021,September,41
+Libya,Africa,2022,April,133
+Libya,Africa,2022,August,268
+Libya,Africa,2022,December,203
+Libya,Africa,2022,February,148
+Libya,Africa,2022,January,135
+Libya,Africa,2022,July,140
+Libya,Africa,2022,June,242
+Libya,Africa,2022,March,188
+Libya,Africa,2022,May,240
+Libya,Africa,2022,November,259
+Libya,Africa,2022,October,321
+Libya,Africa,2022,September,372
+Libya,Africa,2023,April,139
+Libya,Africa,2023,August,576
+Libya,Africa,2023,December,388
+Libya,Africa,2023,February,279
+Libya,Africa,2023,January,278
+Libya,Africa,2023,July,338
+Libya,Africa,2023,June,266
+Libya,Africa,2023,March,234
+Libya,Africa,2023,May,366
+Libya,Africa,2023,November,407
+Libya,Africa,2023,October,447
+Libya,Africa,2023,September,678
+Libya,Africa,2024,April,292
+Libya,Africa,2024,February,277
+Libya,Africa,2024,January,432
+Libya,Africa,2024,June,368
+Libya,Africa,2024,March,199
+Libya,Africa,2024,May,439
+Marshall Islands,Oceania,2020,April,0
+Marshall Islands,Oceania,2020,August,0
+Marshall Islands,Oceania,2020,December,0
+Marshall Islands,Oceania,2020,February,4
+Marshall Islands,Oceania,2020,January,1
+Marshall Islands,Oceania,2020,July,0
+Marshall Islands,Oceania,2020,June,0
+Marshall Islands,Oceania,2020,March,5
+Marshall Islands,Oceania,2020,May,0
+Marshall Islands,Oceania,2020,November,0
+Marshall Islands,Oceania,2020,October,0
+Marshall Islands,Oceania,2020,September,0
+Marshall Islands,Oceania,2021,April,1
+Marshall Islands,Oceania,2021,August,0
+Marshall Islands,Oceania,2021,December,0
+Marshall Islands,Oceania,2021,February,0
+Marshall Islands,Oceania,2021,January,0
+Marshall Islands,Oceania,2021,July,0
+Marshall Islands,Oceania,2021,June,0
+Marshall Islands,Oceania,2021,March,0
+Marshall Islands,Oceania,2021,May,0
+Marshall Islands,Oceania,2021,November,0
+Marshall Islands,Oceania,2021,October,1
+Marshall Islands,Oceania,2021,September,0
+Marshall Islands,Oceania,2022,April,2
+Marshall Islands,Oceania,2022,August,2
+Marshall Islands,Oceania,2022,December,0
+Marshall Islands,Oceania,2022,February,0
+Marshall Islands,Oceania,2022,January,0
+Marshall Islands,Oceania,2022,July,2
+Marshall Islands,Oceania,2022,June,3
+Marshall Islands,Oceania,2022,March,0
+Marshall Islands,Oceania,2022,May,0
+Marshall Islands,Oceania,2022,November,4
+Marshall Islands,Oceania,2022,October,4
+Marshall Islands,Oceania,2022,September,1
+Marshall Islands,Oceania,2023,April,9
+Marshall Islands,Oceania,2023,August,7
+Marshall Islands,Oceania,2023,December,3
+Marshall Islands,Oceania,2023,February,2
+Marshall Islands,Oceania,2023,January,9
+Marshall Islands,Oceania,2023,July,4
+Marshall Islands,Oceania,2023,June,0
+Marshall Islands,Oceania,2023,March,4
+Marshall Islands,Oceania,2023,May,5
+Marshall Islands,Oceania,2023,November,4
+Marshall Islands,Oceania,2023,October,4
+Marshall Islands,Oceania,2023,September,4
+Marshall Islands,Oceania,2024,April,2
+Marshall Islands,Oceania,2024,February,8
+Marshall Islands,Oceania,2024,January,4
+Marshall Islands,Oceania,2024,June,6
+Marshall Islands,Oceania,2024,March,1
+Marshall Islands,Oceania,2024,May,5
+Mauritius,Africa,2020,April,0
+Mauritius,Africa,2020,August,1
+Mauritius,Africa,2020,December,5
+Mauritius,Africa,2020,February,609
+Mauritius,Africa,2020,January,1576
+Mauritius,Africa,2020,July,1
+Mauritius,Africa,2020,June,0
+Mauritius,Africa,2020,March,227
+Mauritius,Africa,2020,May,0
+Mauritius,Africa,2020,November,6
+Mauritius,Africa,2020,October,11
+Mauritius,Africa,2020,September,4
+Mauritius,Africa,2021,April,8
+Mauritius,Africa,2021,August,6
+Mauritius,Africa,2021,December,31
+Mauritius,Africa,2021,February,7
+Mauritius,Africa,2021,January,8
+Mauritius,Africa,2021,July,5
+Mauritius,Africa,2021,June,7
+Mauritius,Africa,2021,March,27
+Mauritius,Africa,2021,May,13
+Mauritius,Africa,2021,November,16
+Mauritius,Africa,2021,October,11
+Mauritius,Africa,2021,September,7
+Mauritius,Africa,2022,April,94
+Mauritius,Africa,2022,August,335
+Mauritius,Africa,2022,December,2280
+Mauritius,Africa,2022,February,44
+Mauritius,Africa,2022,January,47
+Mauritius,Africa,2022,July,314
+Mauritius,Africa,2022,June,200
+Mauritius,Africa,2022,March,43
+Mauritius,Africa,2022,May,173
+Mauritius,Africa,2022,November,2238
+Mauritius,Africa,2022,October,350
+Mauritius,Africa,2022,September,366
+Mauritius,Africa,2023,April,1964
+Mauritius,Africa,2023,August,1736
+Mauritius,Africa,2023,December,3346
+Mauritius,Africa,2023,February,1178
+Mauritius,Africa,2023,January,1421
+Mauritius,Africa,2023,July,1527
+Mauritius,Africa,2023,June,1085
+Mauritius,Africa,2023,March,1984
+Mauritius,Africa,2023,May,1489
+Mauritius,Africa,2023,November,2976
+Mauritius,Africa,2023,October,1875
+Mauritius,Africa,2023,September,1946
+Mauritius,Africa,2024,April,2523
+Mauritius,Africa,2024,February,1605
+Mauritius,Africa,2024,January,1914
+Mauritius,Africa,2024,June,1368
+Mauritius,Africa,2024,March,1537
+Mauritius,Africa,2024,May,1135
+Mexico,North America,2020,April,0
+Mexico,North America,2020,August,82
+Mexico,North America,2020,December,1
+Mexico,North America,2020,February,503
+Mexico,North America,2020,January,757
+Mexico,North America,2020,July,10
+Mexico,North America,2020,June,1
+Mexico,North America,2020,March,273
+Mexico,North America,2020,May,0
+Mexico,North America,2020,November,6
+Mexico,North America,2020,October,14
+Mexico,North America,2020,September,4
+Mexico,North America,2021,April,11
+Mexico,North America,2021,August,14
+Mexico,North America,2021,December,22
+Mexico,North America,2021,February,3
+Mexico,North America,2021,January,7
+Mexico,North America,2021,July,13
+Mexico,North America,2021,June,10
+Mexico,North America,2021,March,3
+Mexico,North America,2021,May,11
+Mexico,North America,2021,November,7
+Mexico,North America,2021,October,7
+Mexico,North America,2021,September,12
+Mexico,North America,2022,April,165
+Mexico,North America,2022,August,421
+Mexico,North America,2022,December,482
+Mexico,North America,2022,February,32
+Mexico,North America,2022,January,86
+Mexico,North America,2022,July,412
+Mexico,North America,2022,June,270
+Mexico,North America,2022,March,24
+Mexico,North America,2022,May,253
+Mexico,North America,2022,November,601
+Mexico,North America,2022,October,795
+Mexico,North America,2022,September,553
+Mexico,North America,2023,April,977
+Mexico,North America,2023,August,696
+Mexico,North America,2023,December,1154
+Mexico,North America,2023,February,527
+Mexico,North America,2023,January,552
+Mexico,North America,2023,July,1151
+Mexico,North America,2023,June,505
+Mexico,North America,2023,March,672
+Mexico,North America,2023,May,786
+Mexico,North America,2023,November,1206
+Mexico,North America,2023,October,1159
+Mexico,North America,2023,September,1156
+Mexico,North America,2024,April,1130
+Mexico,North America,2024,February,853
+Mexico,North America,2024,January,840
+Mexico,North America,2024,June,847
+Mexico,North America,2024,March,1383
+Mexico,North America,2024,May,883
+Morocco,Africa,2020,April,1
+Morocco,Africa,2020,August,0
+Morocco,Africa,2020,December,4
+Morocco,Africa,2020,February,971
+Morocco,Africa,2020,January,953
+Morocco,Africa,2020,July,5
+Morocco,Africa,2020,June,5
+Morocco,Africa,2020,March,376
+Morocco,Africa,2020,May,0
+Morocco,Africa,2020,November,7
+Morocco,Africa,2020,October,10
+Morocco,Africa,2020,September,5
+Morocco,Africa,2021,April,12
+Morocco,Africa,2021,August,10
+Morocco,Africa,2021,December,22
+Morocco,Africa,2021,February,3
+Morocco,Africa,2021,January,8
+Morocco,Africa,2021,July,0
+Morocco,Africa,2021,June,6
+Morocco,Africa,2021,March,11
+Morocco,Africa,2021,May,7
+Morocco,Africa,2021,November,18
+Morocco,Africa,2021,October,8
+Morocco,Africa,2021,September,16
+Morocco,Africa,2022,April,136
+Morocco,Africa,2022,August,944
+Morocco,Africa,2022,December,482
+Morocco,Africa,2022,February,32
+Morocco,Africa,2022,January,30
+Morocco,Africa,2022,July,460
+Morocco,Africa,2022,June,349
+Morocco,Africa,2022,March,37
+Morocco,Africa,2022,May,399
+Morocco,Africa,2022,November,578
+Morocco,Africa,2022,October,992
+Morocco,Africa,2022,September,714
+Morocco,Africa,2023,April,542
+Morocco,Africa,2023,August,2895
+Morocco,Africa,2023,December,1112
+Morocco,Africa,2023,February,738
+Morocco,Africa,2023,January,539
+Morocco,Africa,2023,July,1297
+Morocco,Africa,2023,June,652
+Morocco,Africa,2023,March,632
+Morocco,Africa,2023,May,904
+Morocco,Africa,2023,November,942
+Morocco,Africa,2023,October,1465
+Morocco,Africa,2023,September,1839
+Morocco,Africa,2024,April,1132
+Morocco,Africa,2024,February,1189
+Morocco,Africa,2024,January,1260
+Morocco,Africa,2024,June,1361
+Morocco,Africa,2024,March,643
+Morocco,Africa,2024,May,1799
+Netherlands,Europe,2020,April,32
+Netherlands,Europe,2020,August,47
+Netherlands,Europe,2020,December,25
+Netherlands,Europe,2020,February,6343
+Netherlands,Europe,2020,January,7151
+Netherlands,Europe,2020,July,63
+Netherlands,Europe,2020,June,15
+Netherlands,Europe,2020,March,3195
+Netherlands,Europe,2020,May,16
+Netherlands,Europe,2020,November,53
+Netherlands,Europe,2020,October,56
+Netherlands,Europe,2020,September,49
+Netherlands,Europe,2021,April,65
+Netherlands,Europe,2021,August,91
+Netherlands,Europe,2021,December,170
+Netherlands,Europe,2021,February,30
+Netherlands,Europe,2021,January,58
+Netherlands,Europe,2021,July,57
+Netherlands,Europe,2021,June,26
+Netherlands,Europe,2021,March,46
+Netherlands,Europe,2021,May,40
+Netherlands,Europe,2021,November,95
+Netherlands,Europe,2021,October,94
+Netherlands,Europe,2021,September,93
+Netherlands,Europe,2022,April,1595
+Netherlands,Europe,2022,August,5950
+Netherlands,Europe,2022,December,4063
+Netherlands,Europe,2022,February,209
+Netherlands,Europe,2022,January,276
+Netherlands,Europe,2022,July,6198
+Netherlands,Europe,2022,June,2612
+Netherlands,Europe,2022,March,264
+Netherlands,Europe,2022,May,2273
+Netherlands,Europe,2022,November,4451
+Netherlands,Europe,2022,October,4656
+Netherlands,Europe,2022,September,4447
+Netherlands,Europe,2023,April,6074
+Netherlands,Europe,2023,August,9949
+Netherlands,Europe,2023,December,6328
+Netherlands,Europe,2023,February,5180
+Netherlands,Europe,2023,January,5451
+Netherlands,Europe,2023,July,12619
+Netherlands,Europe,2023,June,4182
+Netherlands,Europe,2023,March,5826
+Netherlands,Europe,2023,May,5844
+Netherlands,Europe,2023,November,5982
+Netherlands,Europe,2023,October,5997
+Netherlands,Europe,2023,September,6556
+Netherlands,Europe,2024,April,6697
+Netherlands,Europe,2024,February,7170
+Netherlands,Europe,2024,January,7120
+Netherlands,Europe,2024,June,5686
+Netherlands,Europe,2024,March,6590
+Netherlands,Europe,2024,May,6455
+New Zealand,Oceania,2020,April,2
+New Zealand,Oceania,2020,August,117
+New Zealand,Oceania,2020,December,22
+New Zealand,Oceania,2020,February,3043
+New Zealand,Oceania,2020,January,6194
+New Zealand,Oceania,2020,July,33
+New Zealand,Oceania,2020,June,12
+New Zealand,Oceania,2020,March,1311
+New Zealand,Oceania,2020,May,7
+New Zealand,Oceania,2020,November,23
+New Zealand,Oceania,2020,October,29
+New Zealand,Oceania,2020,September,23
+New Zealand,Oceania,2021,April,26
+New Zealand,Oceania,2021,August,21
+New Zealand,Oceania,2021,December,97
+New Zealand,Oceania,2021,February,15
+New Zealand,Oceania,2021,January,28
+New Zealand,Oceania,2021,July,25
+New Zealand,Oceania,2021,June,20
+New Zealand,Oceania,2021,March,11
+New Zealand,Oceania,2021,May,8
+New Zealand,Oceania,2021,November,22
+New Zealand,Oceania,2021,October,19
+New Zealand,Oceania,2021,September,13
+New Zealand,Oceania,2022,April,769
+New Zealand,Oceania,2022,August,2229
+New Zealand,Oceania,2022,December,4647
+New Zealand,Oceania,2022,February,79
+New Zealand,Oceania,2022,January,156
+New Zealand,Oceania,2022,July,2347
+New Zealand,Oceania,2022,June,1565
+New Zealand,Oceania,2022,March,112
+New Zealand,Oceania,2022,May,1129
+New Zealand,Oceania,2022,November,3188
+New Zealand,Oceania,2022,October,3087
+New Zealand,Oceania,2022,September,2610
+New Zealand,Oceania,2023,April,4334
+New Zealand,Oceania,2023,August,3965
+New Zealand,Oceania,2023,December,6757
+New Zealand,Oceania,2023,February,2938
+New Zealand,Oceania,2023,January,4555
+New Zealand,Oceania,2023,July,5621
+New Zealand,Oceania,2023,June,3541
+New Zealand,Oceania,2023,March,3205
+New Zealand,Oceania,2023,May,3572
+New Zealand,Oceania,2023,November,4735
+New Zealand,Oceania,2023,October,4867
+New Zealand,Oceania,2023,September,5167
+New Zealand,Oceania,2024,April,4330
+New Zealand,Oceania,2024,February,3839
+New Zealand,Oceania,2024,January,6098
+New Zealand,Oceania,2024,June,4770
+New Zealand,Oceania,2024,March,4099
+New Zealand,Oceania,2024,May,3823
+Nigeria,Africa,2020,April,2
+Nigeria,Africa,2020,August,10
+Nigeria,Africa,2020,December,36
+Nigeria,Africa,2020,February,804
+Nigeria,Africa,2020,January,838
+Nigeria,Africa,2020,July,19
+Nigeria,Africa,2020,June,4
+Nigeria,Africa,2020,March,294
+Nigeria,Africa,2020,May,1
+Nigeria,Africa,2020,November,64
+Nigeria,Africa,2020,October,24
+Nigeria,Africa,2020,September,36
+Nigeria,Africa,2021,April,164
+Nigeria,Africa,2021,August,89
+Nigeria,Africa,2021,December,173
+Nigeria,Africa,2021,February,62
+Nigeria,Africa,2021,January,39
+Nigeria,Africa,2021,July,65
+Nigeria,Africa,2021,June,93
+Nigeria,Africa,2021,March,139
+Nigeria,Africa,2021,May,132
+Nigeria,Africa,2021,November,97
+Nigeria,Africa,2021,October,120
+Nigeria,Africa,2021,September,94
+Nigeria,Africa,2022,April,263
+Nigeria,Africa,2022,August,348
+Nigeria,Africa,2022,December,291
+Nigeria,Africa,2022,February,244
+Nigeria,Africa,2022,January,202
+Nigeria,Africa,2022,July,288
+Nigeria,Africa,2022,June,337
+Nigeria,Africa,2022,March,291
+Nigeria,Africa,2022,May,302
+Nigeria,Africa,2022,November,513
+Nigeria,Africa,2022,October,389
+Nigeria,Africa,2022,September,352
+Nigeria,Africa,2023,April,377
+Nigeria,Africa,2023,August,543
+Nigeria,Africa,2023,December,402
+Nigeria,Africa,2023,February,406
+Nigeria,Africa,2023,January,364
+Nigeria,Africa,2023,July,363
+Nigeria,Africa,2023,June,384
+Nigeria,Africa,2023,March,497
+Nigeria,Africa,2023,May,560
+Nigeria,Africa,2023,November,529
+Nigeria,Africa,2023,October,500
+Nigeria,Africa,2023,September,517
+Nigeria,Africa,2024,April,463
+Nigeria,Africa,2024,February,414
+Nigeria,Africa,2024,January,464
+Nigeria,Africa,2024,June,477
+Nigeria,Africa,2024,March,529
+Nigeria,Africa,2024,May,544
+Panama,North America,2020,April,0
+Panama,North America,2020,August,0
+Panama,North America,2020,December,0
+Panama,North America,2020,February,39
+Panama,North America,2020,January,72
+Panama,North America,2020,July,1
+Panama,North America,2020,June,0
+Panama,North America,2020,March,9
+Panama,North America,2020,May,0
+Panama,North America,2020,November,0
+Panama,North America,2020,October,0
+Panama,North America,2020,September,0
+Panama,North America,2021,April,1
+Panama,North America,2021,August,2
+Panama,North America,2021,December,1
+Panama,North America,2021,February,2
+Panama,North America,2021,January,3
+Panama,North America,2021,July,5
+Panama,North America,2021,June,0
+Panama,North America,2021,March,0
+Panama,North America,2021,May,1
+Panama,North America,2021,November,1
+Panama,North America,2021,October,1
+Panama,North America,2021,September,4
+Panama,North America,2022,April,6
+Panama,North America,2022,August,12
+Panama,North America,2022,December,22
+Panama,North America,2022,February,0
+Panama,North America,2022,January,1
+Panama,North America,2022,July,8
+Panama,North America,2022,June,6
+Panama,North America,2022,March,1
+Panama,North America,2022,May,8
+Panama,North America,2022,November,25
+Panama,North America,2022,October,27
+Panama,North America,2022,September,22
+Panama,North America,2023,April,28
+Panama,North America,2023,August,38
+Panama,North America,2023,December,23
+Panama,North America,2023,February,47
+Panama,North America,2023,January,40
+Panama,North America,2023,July,55
+Panama,North America,2023,June,7
+Panama,North America,2023,March,28
+Panama,North America,2023,May,18
+Panama,North America,2023,November,49
+Panama,North America,2023,October,48
+Panama,North America,2023,September,39
+Panama,North America,2024,April,41
+Panama,North America,2024,February,58
+Panama,North America,2024,January,50
+Panama,North America,2024,June,37
+Panama,North America,2024,March,41
+Panama,North America,2024,May,20
+Papua New Guinea,Oceania,2020,April,0
+Papua New Guinea,Oceania,2020,August,0
+Papua New Guinea,Oceania,2020,December,1
+Papua New Guinea,Oceania,2020,February,67
+Papua New Guinea,Oceania,2020,January,109
+Papua New Guinea,Oceania,2020,July,0
+Papua New Guinea,Oceania,2020,June,0
+Papua New Guinea,Oceania,2020,March,23
+Papua New Guinea,Oceania,2020,May,0
+Papua New Guinea,Oceania,2020,November,0
+Papua New Guinea,Oceania,2020,October,0
+Papua New Guinea,Oceania,2020,September,0
+Papua New Guinea,Oceania,2021,April,1
+Papua New Guinea,Oceania,2021,August,0
+Papua New Guinea,Oceania,2021,December,3
+Papua New Guinea,Oceania,2021,February,0
+Papua New Guinea,Oceania,2021,January,2
+Papua New Guinea,Oceania,2021,July,0
+Papua New Guinea,Oceania,2021,June,3
+Papua New Guinea,Oceania,2021,March,0
+Papua New Guinea,Oceania,2021,May,1
+Papua New Guinea,Oceania,2021,November,2
+Papua New Guinea,Oceania,2021,October,0
+Papua New Guinea,Oceania,2021,September,0
+Papua New Guinea,Oceania,2022,April,12
+Papua New Guinea,Oceania,2022,August,52
+Papua New Guinea,Oceania,2022,December,54
+Papua New Guinea,Oceania,2022,February,2
+Papua New Guinea,Oceania,2022,January,0
+Papua New Guinea,Oceania,2022,July,58
+Papua New Guinea,Oceania,2022,June,60
+Papua New Guinea,Oceania,2022,March,3
+Papua New Guinea,Oceania,2022,May,40
+Papua New Guinea,Oceania,2022,November,58
+Papua New Guinea,Oceania,2022,October,61
+Papua New Guinea,Oceania,2022,September,50
+Papua New Guinea,Oceania,2023,April,45
+Papua New Guinea,Oceania,2023,August,44
+Papua New Guinea,Oceania,2023,December,76
+Papua New Guinea,Oceania,2023,February,67
+Papua New Guinea,Oceania,2023,January,77
+Papua New Guinea,Oceania,2023,July,101
+Papua New Guinea,Oceania,2023,June,135
+Papua New Guinea,Oceania,2023,March,105
+Papua New Guinea,Oceania,2023,May,68
+Papua New Guinea,Oceania,2023,November,203
+Papua New Guinea,Oceania,2023,October,122
+Papua New Guinea,Oceania,2023,September,97
+Papua New Guinea,Oceania,2024,April,101
+Papua New Guinea,Oceania,2024,February,117
+Papua New Guinea,Oceania,2024,January,125
+Papua New Guinea,Oceania,2024,June,194
+Papua New Guinea,Oceania,2024,March,102
+Papua New Guinea,Oceania,2024,May,78
+Peru,South America,2020,April,0
+Peru,South America,2020,August,5
+Peru,South America,2020,December,13
+Peru,South America,2020,February,196
+Peru,South America,2020,January,222
+Peru,South America,2020,July,3
+Peru,South America,2020,June,0
+Peru,South America,2020,March,64
+Peru,South America,2020,May,0
+Peru,South America,2020,November,1
+Peru,South America,2020,October,2
+Peru,South America,2020,September,2
+Peru,South America,2021,April,2
+Peru,South America,2021,August,4
+Peru,South America,2021,December,7
+Peru,South America,2021,February,0
+Peru,South America,2021,January,1
+Peru,South America,2021,July,1
+Peru,South America,2021,June,0
+Peru,South America,2021,March,0
+Peru,South America,2021,May,1
+Peru,South America,2021,November,3
+Peru,South America,2021,October,3
+Peru,South America,2021,September,0
+Peru,South America,2022,April,47
+Peru,South America,2022,August,145
+Peru,South America,2022,December,122
+Peru,South America,2022,February,3
+Peru,South America,2022,January,8
+Peru,South America,2022,July,87
+Peru,South America,2022,June,51
+Peru,South America,2022,March,5
+Peru,South America,2022,May,63
+Peru,South America,2022,November,122
+Peru,South America,2022,October,120
+Peru,South America,2022,September,116
+Peru,South America,2023,April,158
+Peru,South America,2023,August,181
+Peru,South America,2023,December,215
+Peru,South America,2023,February,130
+Peru,South America,2023,January,142
+Peru,South America,2023,July,196
+Peru,South America,2023,June,124
+Peru,South America,2023,March,118
+Peru,South America,2023,May,168
+Peru,South America,2023,November,189
+Peru,South America,2023,October,450
+Peru,South America,2023,September,191
+Peru,South America,2024,April,184
+Peru,South America,2024,February,194
+Peru,South America,2024,January,210
+Peru,South America,2024,June,169
+Peru,South America,2024,March,182
+Peru,South America,2024,May,240
+Philippines,Asia,2020,April,16
+Philippines,Asia,2020,August,428
+Philippines,Asia,2020,December,407
+Philippines,Asia,2020,February,32078
+Philippines,Asia,2020,January,46450
+Philippines,Asia,2020,July,429
+Philippines,Asia,2020,June,82
+Philippines,Asia,2020,March,15760
+Philippines,Asia,2020,May,27
+Philippines,Asia,2020,November,374
+Philippines,Asia,2020,October,455
+Philippines,Asia,2020,September,505
+Philippines,Asia,2021,April,855
+Philippines,Asia,2021,August,417
+Philippines,Asia,2021,December,1173
+Philippines,Asia,2021,February,546
+Philippines,Asia,2021,January,558
+Philippines,Asia,2021,July,690
+Philippines,Asia,2021,June,401
+Philippines,Asia,2021,March,634
+Philippines,Asia,2021,May,912
+Philippines,Asia,2021,November,704
+Philippines,Asia,2021,October,453
+Philippines,Asia,2021,September,497
+Philippines,Asia,2022,April,7218
+Philippines,Asia,2022,August,25917
+Philippines,Asia,2022,December,39756
+Philippines,Asia,2022,February,1594
+Philippines,Asia,2022,January,1484
+Philippines,Asia,2022,July,26108
+Philippines,Asia,2022,June,18461
+Philippines,Asia,2022,March,1878
+Philippines,Asia,2022,May,14072
+Philippines,Asia,2022,November,35766
+Philippines,Asia,2022,October,34846
+Philippines,Asia,2022,September,27263
+Philippines,Asia,2023,April,38235
+Philippines,Asia,2023,August,47966
+Philippines,Asia,2023,December,55146
+Philippines,Asia,2023,February,31449
+Philippines,Asia,2023,January,36488
+Philippines,Asia,2023,July,53172
+Philippines,Asia,2023,June,36813
+Philippines,Asia,2023,March,37428
+Philippines,Asia,2023,May,38745
+Philippines,Asia,2023,November,46338
+Philippines,Asia,2023,October,43907
+Philippines,Asia,2023,September,44893
+Philippines,Asia,2024,April,44757
+Philippines,Asia,2024,February,41087
+Philippines,Asia,2024,January,38469
+Philippines,Asia,2024,June,64467
+Philippines,Asia,2024,March,61671
+Philippines,Asia,2024,May,47424
+Poland,Europe,2020,April,0
+Poland,Europe,2020,August,23
+Poland,Europe,2020,December,12
+Poland,Europe,2020,February,3334
+Poland,Europe,2020,January,3763
+Poland,Europe,2020,July,19
+Poland,Europe,2020,June,5
+Poland,Europe,2020,March,1150
+Poland,Europe,2020,May,12
+Poland,Europe,2020,November,19
+Poland,Europe,2020,October,26
+Poland,Europe,2020,September,23
+Poland,Europe,2021,April,30
+Poland,Europe,2021,August,37
+Poland,Europe,2021,December,30
+Poland,Europe,2021,February,33
+Poland,Europe,2021,January,29
+Poland,Europe,2021,July,25
+Poland,Europe,2021,June,14
+Poland,Europe,2021,March,29
+Poland,Europe,2021,May,38
+Poland,Europe,2021,November,36
+Poland,Europe,2021,October,20
+Poland,Europe,2021,September,37
+Poland,Europe,2022,April,320
+Poland,Europe,2022,August,1311
+Poland,Europe,2022,December,1170
+Poland,Europe,2022,February,62
+Poland,Europe,2022,January,74
+Poland,Europe,2022,July,944
+Poland,Europe,2022,June,630
+Poland,Europe,2022,March,70
+Poland,Europe,2022,May,509
+Poland,Europe,2022,November,1909
+Poland,Europe,2022,October,1425
+Poland,Europe,2022,September,1222
+Poland,Europe,2023,April,1652
+Poland,Europe,2023,August,1894
+Poland,Europe,2023,December,2424
+Poland,Europe,2023,February,2573
+Poland,Europe,2023,January,2195
+Poland,Europe,2023,July,2062
+Poland,Europe,2023,June,1106
+Poland,Europe,2023,March,2369
+Poland,Europe,2023,May,1417
+Poland,Europe,2023,November,2645
+Poland,Europe,2023,October,1905
+Poland,Europe,2023,September,1872
+Poland,Europe,2024,April,2379
+Poland,Europe,2024,February,4856
+Poland,Europe,2024,January,4403
+Poland,Europe,2024,June,2062
+Poland,Europe,2024,March,3728
+Poland,Europe,2024,May,1805
+Russia,Europe,2020,April,2
+Russia,Europe,2020,August,112
+Russia,Europe,2020,December,35
+Russia,Europe,2020,February,12780
+Russia,Europe,2020,January,14201
+Russia,Europe,2020,July,187
+Russia,Europe,2020,June,17
+Russia,Europe,2020,March,6192
+Russia,Europe,2020,May,6
+Russia,Europe,2020,November,54
+Russia,Europe,2020,October,34
+Russia,Europe,2020,September,54
+Russia,Europe,2021,April,109
+Russia,Europe,2021,August,91
+Russia,Europe,2021,December,121
+Russia,Europe,2021,February,83
+Russia,Europe,2021,January,51
+Russia,Europe,2021,July,69
+Russia,Europe,2021,June,77
+Russia,Europe,2021,March,58
+Russia,Europe,2021,May,67
+Russia,Europe,2021,November,73
+Russia,Europe,2021,October,56
+Russia,Europe,2021,September,100
+Russia,Europe,2022,April,819
+Russia,Europe,2022,August,2717
+Russia,Europe,2022,December,12891
+Russia,Europe,2022,February,112
+Russia,Europe,2022,January,127
+Russia,Europe,2022,July,2070
+Russia,Europe,2022,June,1442
+Russia,Europe,2022,March,227
+Russia,Europe,2022,May,1389
+Russia,Europe,2022,November,9472
+Russia,Europe,2022,October,6117
+Russia,Europe,2022,September,3347
+Russia,Europe,2023,April,13098
+Russia,Europe,2023,August,8268
+Russia,Europe,2023,December,10646
+Russia,Europe,2023,February,15976
+Russia,Europe,2023,January,16741
+Russia,Europe,2023,July,9345
+Russia,Europe,2023,June,5604
+Russia,Europe,2023,March,16247
+Russia,Europe,2023,May,10521
+Russia,Europe,2023,November,10460
+Russia,Europe,2023,October,8427
+Russia,Europe,2023,September,7898
+Russia,Europe,2024,April,11444
+Russia,Europe,2024,February,13815
+Russia,Europe,2024,January,15167
+Russia,Europe,2024,June,8469
+Russia,Europe,2024,March,14902
+Russia,Europe,2024,May,8855
+Samoa,Oceania,2020,April,0
+Samoa,Oceania,2020,August,0
+Samoa,Oceania,2020,December,0
+Samoa,Oceania,2020,February,3
+Samoa,Oceania,2020,January,5
+Samoa,Oceania,2020,July,0
+Samoa,Oceania,2020,June,0
+Samoa,Oceania,2020,March,1
+Samoa,Oceania,2020,May,0
+Samoa,Oceania,2020,November,0
+Samoa,Oceania,2020,October,0
+Samoa,Oceania,2020,September,0
+Samoa,Oceania,2021,April,0
+Samoa,Oceania,2021,August,0
+Samoa,Oceania,2021,December,0
+Samoa,Oceania,2021,February,0
+Samoa,Oceania,2021,January,0
+Samoa,Oceania,2021,July,0
+Samoa,Oceania,2021,June,0
+Samoa,Oceania,2021,March,0
+Samoa,Oceania,2021,May,0
+Samoa,Oceania,2021,November,0
+Samoa,Oceania,2021,October,0
+Samoa,Oceania,2021,September,0
+Samoa,Oceania,2022,April,0
+Samoa,Oceania,2022,August,2
+Samoa,Oceania,2022,December,2
+Samoa,Oceania,2022,February,0
+Samoa,Oceania,2022,January,0
+Samoa,Oceania,2022,July,1
+Samoa,Oceania,2022,June,1
+Samoa,Oceania,2022,March,0
+Samoa,Oceania,2022,May,1
+Samoa,Oceania,2022,November,8
+Samoa,Oceania,2022,October,10
+Samoa,Oceania,2022,September,7
+Samoa,Oceania,2023,April,4
+Samoa,Oceania,2023,August,3
+Samoa,Oceania,2023,December,5
+Samoa,Oceania,2023,February,2
+Samoa,Oceania,2023,January,0
+Samoa,Oceania,2023,July,9
+Samoa,Oceania,2023,June,4
+Samoa,Oceania,2023,March,6
+Samoa,Oceania,2023,May,2
+Samoa,Oceania,2023,November,10
+Samoa,Oceania,2023,October,5
+Samoa,Oceania,2023,September,7
+Samoa,Oceania,2024,April,3
+Samoa,Oceania,2024,February,2
+Samoa,Oceania,2024,January,3
+Samoa,Oceania,2024,June,2
+Samoa,Oceania,2024,March,3
+Samoa,Oceania,2024,May,2
+Singapore,Asia,2020,April,97
+Singapore,Asia,2020,August,514
+Singapore,Asia,2020,December,446
+Singapore,Asia,2020,February,920277
+Singapore,Asia,2020,January,1265034
+Singapore,Asia,2020,July,350
+Singapore,Asia,2020,June,150
+Singapore,Asia,2020,March,588391
+Singapore,Asia,2020,May,80
+Singapore,Asia,2020,November,740
+Singapore,Asia,2020,October,861
+Singapore,Asia,2020,September,881
+Singapore,Asia,2021,April,442
+Singapore,Asia,2021,August,208
+Singapore,Asia,2021,December,13424
+Singapore,Asia,2021,February,391
+Singapore,Asia,2021,January,439
+Singapore,Asia,2021,July,195
+Singapore,Asia,2021,June,167
+Singapore,Asia,2021,March,493
+Singapore,Asia,2021,May,273
+Singapore,Asia,2021,November,1036
+Singapore,Asia,2021,October,388
+Singapore,Asia,2021,September,236
+Singapore,Asia,2022,April,411851
+Singapore,Asia,2022,August,974331
+Singapore,Asia,2022,December,1267322
+Singapore,Asia,2022,February,6892
+Singapore,Asia,2022,January,7584
+Singapore,Asia,2022,July,980310
+Singapore,Asia,2022,June,851285
+Singapore,Asia,2022,March,16345
+Singapore,Asia,2022,May,650065
+Singapore,Asia,2022,November,1092183
+Singapore,Asia,2022,October,1063726
+Singapore,Asia,2022,September,1067137
+Singapore,Asia,2023,April,1041826
+Singapore,Asia,2023,August,1276080
+Singapore,Asia,2023,December,1555476
+Singapore,Asia,2023,February,939633
+Singapore,Asia,2023,January,1060844
+Singapore,Asia,2023,July,1295067
+Singapore,Asia,2023,June,1318183
+Singapore,Asia,2023,March,1140473
+Singapore,Asia,2023,May,1119412
+Singapore,Asia,2023,November,1383199
+Singapore,Asia,2023,October,1355821
+Singapore,Asia,2023,September,1399698
+Singapore,Asia,2024,April,1379469
+Singapore,Asia,2024,February,1146125
+Singapore,Asia,2024,January,941748
+Singapore,Asia,2024,June,1805492
+Singapore,Asia,2024,March,1626552
+Singapore,Asia,2024,May,1527065
+Solomon Islands,Oceania,2020,April,0
+Solomon Islands,Oceania,2020,August,0
+Solomon Islands,Oceania,2020,December,0
+Solomon Islands,Oceania,2020,February,8
+Solomon Islands,Oceania,2020,January,35
+Solomon Islands,Oceania,2020,July,0
+Solomon Islands,Oceania,2020,June,0
+Solomon Islands,Oceania,2020,March,2
+Solomon Islands,Oceania,2020,May,0
+Solomon Islands,Oceania,2020,November,0
+Solomon Islands,Oceania,2020,October,0
+Solomon Islands,Oceania,2020,September,0
+Solomon Islands,Oceania,2021,April,0
+Solomon Islands,Oceania,2021,August,0
+Solomon Islands,Oceania,2021,December,2
+Solomon Islands,Oceania,2021,February,0
+Solomon Islands,Oceania,2021,January,0
+Solomon Islands,Oceania,2021,July,0
+Solomon Islands,Oceania,2021,June,0
+Solomon Islands,Oceania,2021,March,0
+Solomon Islands,Oceania,2021,May,0
+Solomon Islands,Oceania,2021,November,0
+Solomon Islands,Oceania,2021,October,0
+Solomon Islands,Oceania,2021,September,0
+Solomon Islands,Oceania,2022,April,1
+Solomon Islands,Oceania,2022,August,14
+Solomon Islands,Oceania,2022,December,9
+Solomon Islands,Oceania,2022,February,0
+Solomon Islands,Oceania,2022,January,0
+Solomon Islands,Oceania,2022,July,7
+Solomon Islands,Oceania,2022,June,6
+Solomon Islands,Oceania,2022,March,2
+Solomon Islands,Oceania,2022,May,0
+Solomon Islands,Oceania,2022,November,20
+Solomon Islands,Oceania,2022,October,10
+Solomon Islands,Oceania,2022,September,4
+Solomon Islands,Oceania,2023,April,14
+Solomon Islands,Oceania,2023,August,7
+Solomon Islands,Oceania,2023,December,11
+Solomon Islands,Oceania,2023,February,2
+Solomon Islands,Oceania,2023,January,19
+Solomon Islands,Oceania,2023,July,7
+Solomon Islands,Oceania,2023,June,32
+Solomon Islands,Oceania,2023,March,9
+Solomon Islands,Oceania,2023,May,19
+Solomon Islands,Oceania,2023,November,72
+Solomon Islands,Oceania,2023,October,8
+Solomon Islands,Oceania,2023,September,7
+Solomon Islands,Oceania,2024,April,19
+Solomon Islands,Oceania,2024,February,20
+Solomon Islands,Oceania,2024,January,11
+Solomon Islands,Oceania,2024,June,26
+Solomon Islands,Oceania,2024,March,32
+Solomon Islands,Oceania,2024,May,24
+South Africa,Africa,2020,April,0
+South Africa,Africa,2020,August,16
+South Africa,Africa,2020,December,26
+South Africa,Africa,2020,February,1358
+South Africa,Africa,2020,January,2676
+South Africa,Africa,2020,July,12
+South Africa,Africa,2020,June,14
+South Africa,Africa,2020,March,701
+South Africa,Africa,2020,May,1
+South Africa,Africa,2020,November,17
+South Africa,Africa,2020,October,32
+South Africa,Africa,2020,September,23
+South Africa,Africa,2021,April,43
+South Africa,Africa,2021,August,30
+South Africa,Africa,2021,December,38
+South Africa,Africa,2021,February,55
+South Africa,Africa,2021,January,28
+South Africa,Africa,2021,July,24
+South Africa,Africa,2021,June,24
+South Africa,Africa,2021,March,71
+South Africa,Africa,2021,May,33
+South Africa,Africa,2021,November,44
+South Africa,Africa,2021,October,38
+South Africa,Africa,2021,September,61
+South Africa,Africa,2022,April,525
+South Africa,Africa,2022,August,1001
+South Africa,Africa,2022,December,2618
+South Africa,Africa,2022,February,71
+South Africa,Africa,2022,January,108
+South Africa,Africa,2022,July,960
+South Africa,Africa,2022,June,747
+South Africa,Africa,2022,March,97
+South Africa,Africa,2022,May,690
+South Africa,Africa,2022,November,1088
+South Africa,Africa,2022,October,1410
+South Africa,Africa,2022,September,970
+South Africa,Africa,2023,April,1663
+South Africa,Africa,2023,August,1403
+South Africa,Africa,2023,December,3648
+South Africa,Africa,2023,February,1134
+South Africa,Africa,2023,January,1674
+South Africa,Africa,2023,July,1773
+South Africa,Africa,2023,June,1265
+South Africa,Africa,2023,March,1185
+South Africa,Africa,2023,May,1167
+South Africa,Africa,2023,November,1587
+South Africa,Africa,2023,October,1530
+South Africa,Africa,2023,September,1592
+South Africa,Africa,2024,April,1429
+South Africa,Africa,2024,February,1513
+South Africa,Africa,2024,January,2142
+South Africa,Africa,2024,June,1881
+South Africa,Africa,2024,March,1677
+South Africa,Africa,2024,May,1353
+South Korea,Asia,2020,April,2
+South Korea,Asia,2020,August,366
+South Korea,Asia,2020,December,274
+South Korea,Asia,2020,February,35596
+South Korea,Asia,2020,January,98357
+South Korea,Asia,2020,July,235
+South Korea,Asia,2020,June,45
+South Korea,Asia,2020,March,4559
+South Korea,Asia,2020,May,2
+South Korea,Asia,2020,November,235
+South Korea,Asia,2020,October,311
+South Korea,Asia,2020,September,380
+South Korea,Asia,2021,April,339
+South Korea,Asia,2021,August,372
+South Korea,Asia,2021,December,1354
+South Korea,Asia,2021,February,214
+South Korea,Asia,2021,January,237
+South Korea,Asia,2021,July,282
+South Korea,Asia,2021,June,214
+South Korea,Asia,2021,March,344
+South Korea,Asia,2021,May,306
+South Korea,Asia,2021,November,623
+South Korea,Asia,2021,October,676
+South Korea,Asia,2021,September,387
+South Korea,Asia,2022,April,5588
+South Korea,Asia,2022,August,26280
+South Korea,Asia,2022,December,34415
+South Korea,Asia,2022,February,891
+South Korea,Asia,2022,January,1223
+South Korea,Asia,2022,July,26499
+South Korea,Asia,2022,June,12823
+South Korea,Asia,2022,March,1011
+South Korea,Asia,2022,May,9853
+South Korea,Asia,2022,November,25192
+South Korea,Asia,2022,October,23658
+South Korea,Asia,2022,September,20508
+South Korea,Asia,2023,April,30684
+South Korea,Asia,2023,August,36035
+South Korea,Asia,2023,December,49281
+South Korea,Asia,2023,February,48525
+South Korea,Asia,2023,January,56710
+South Korea,Asia,2023,July,46068
+South Korea,Asia,2023,June,23122
+South Korea,Asia,2023,March,35480
+South Korea,Asia,2023,May,33173
+South Korea,Asia,2023,November,34479
+South Korea,Asia,2023,October,24952
+South Korea,Asia,2023,September,26151
+South Korea,Asia,2024,April,34485
+South Korea,Asia,2024,February,51086
+South Korea,Asia,2024,January,78900
+South Korea,Asia,2024,June,41882
+South Korea,Asia,2024,March,39049
+South Korea,Asia,2024,May,33721
+Spain,Europe,2020,April,0
+Spain,Europe,2020,August,19
+Spain,Europe,2020,December,28
+Spain,Europe,2020,February,2883
+Spain,Europe,2020,January,3195
+Spain,Europe,2020,July,22
+Spain,Europe,2020,June,3
+Spain,Europe,2020,March,1428
+Spain,Europe,2020,May,0
+Spain,Europe,2020,November,14
+Spain,Europe,2020,October,12
+Spain,Europe,2020,September,8
+Spain,Europe,2021,April,21
+Spain,Europe,2021,August,75
+Spain,Europe,2021,December,44
+Spain,Europe,2021,February,18
+Spain,Europe,2021,January,20
+Spain,Europe,2021,July,32
+Spain,Europe,2021,June,14
+Spain,Europe,2021,March,27
+Spain,Europe,2021,May,27
+Spain,Europe,2021,November,44
+Spain,Europe,2021,October,19
+Spain,Europe,2021,September,43
+Spain,Europe,2022,April,599
+Spain,Europe,2022,August,6259
+Spain,Europe,2022,December,1993
+Spain,Europe,2022,February,134
+Spain,Europe,2022,January,274
+Spain,Europe,2022,July,3745
+Spain,Europe,2022,June,1490
+Spain,Europe,2022,March,121
+Spain,Europe,2022,May,996
+Spain,Europe,2022,November,2808
+Spain,Europe,2022,October,3712
+Spain,Europe,2022,September,3090
+Spain,Europe,2023,April,3082
+Spain,Europe,2023,August,10124
+Spain,Europe,2023,December,3512
+Spain,Europe,2023,February,2203
+Spain,Europe,2023,January,2607
+Spain,Europe,2023,July,6252
+Spain,Europe,2023,June,2213
+Spain,Europe,2023,March,2778
+Spain,Europe,2023,May,2364
+Spain,Europe,2023,November,4466
+Spain,Europe,2023,October,4129
+Spain,Europe,2023,September,5142
+Spain,Europe,2024,April,3631
+Spain,Europe,2024,February,3619
+Spain,Europe,2024,January,3953
+Spain,Europe,2024,June,4518
+Spain,Europe,2024,March,4499
+Spain,Europe,2024,May,3392
+St. Kitts and Nevis,North America,2020,April,0
+St. Kitts and Nevis,North America,2020,August,0
+St. Kitts and Nevis,North America,2020,December,1
+St. Kitts and Nevis,North America,2020,February,46
+St. Kitts and Nevis,North America,2020,January,63
+St. Kitts and Nevis,North America,2020,July,0
+St. Kitts and Nevis,North America,2020,June,0
+St. Kitts and Nevis,North America,2020,March,23
+St. Kitts and Nevis,North America,2020,May,0
+St. Kitts and Nevis,North America,2020,November,0
+St. Kitts and Nevis,North America,2020,October,2
+St. Kitts and Nevis,North America,2020,September,1
+St. Kitts and Nevis,North America,2021,April,0
+St. Kitts and Nevis,North America,2021,August,0
+St. Kitts and Nevis,North America,2021,December,1
+St. Kitts and Nevis,North America,2021,February,1
+St. Kitts and Nevis,North America,2021,January,0
+St. Kitts and Nevis,North America,2021,July,0
+St. Kitts and Nevis,North America,2021,June,0
+St. Kitts and Nevis,North America,2021,March,0
+St. Kitts and Nevis,North America,2021,May,0
+St. Kitts and Nevis,North America,2021,November,0
+St. Kitts and Nevis,North America,2021,October,3
+St. Kitts and Nevis,North America,2021,September,1
+St. Kitts and Nevis,North America,2022,April,29
+St. Kitts and Nevis,North America,2022,August,53
+St. Kitts and Nevis,North America,2022,December,82
+St. Kitts and Nevis,North America,2022,February,2
+St. Kitts and Nevis,North America,2022,January,2
+St. Kitts and Nevis,North America,2022,July,86
+St. Kitts and Nevis,North America,2022,June,48
+St. Kitts and Nevis,North America,2022,March,2
+St. Kitts and Nevis,North America,2022,May,58
+St. Kitts and Nevis,North America,2022,November,57
+St. Kitts and Nevis,North America,2022,October,81
+St. Kitts and Nevis,North America,2022,September,64
+St. Kitts and Nevis,North America,2023,April,125
+St. Kitts and Nevis,North America,2023,August,125
+St. Kitts and Nevis,North America,2023,December,114
+St. Kitts and Nevis,North America,2023,February,66
+St. Kitts and Nevis,North America,2023,January,70
+St. Kitts and Nevis,North America,2023,July,124
+St. Kitts and Nevis,North America,2023,June,86
+St. Kitts and Nevis,North America,2023,March,78
+St. Kitts and Nevis,North America,2023,May,75
+St. Kitts and Nevis,North America,2023,November,84
+St. Kitts and Nevis,North America,2023,October,95
+St. Kitts and Nevis,North America,2023,September,91
+St. Kitts and Nevis,North America,2024,April,88
+St. Kitts and Nevis,North America,2024,February,86
+St. Kitts and Nevis,North America,2024,January,77
+St. Kitts and Nevis,North America,2024,June,84
+St. Kitts and Nevis,North America,2024,March,78
+St. Kitts and Nevis,North America,2024,May,78
+Sudan,Africa,2020,April,0
+Sudan,Africa,2020,August,13
+Sudan,Africa,2020,December,7
+Sudan,Africa,2020,February,1099
+Sudan,Africa,2020,January,1519
+Sudan,Africa,2020,July,2
+Sudan,Africa,2020,June,0
+Sudan,Africa,2020,March,375
+Sudan,Africa,2020,May,0
+Sudan,Africa,2020,November,5
+Sudan,Africa,2020,October,28
+Sudan,Africa,2020,September,26
+Sudan,Africa,2021,April,67
+Sudan,Africa,2021,August,33
+Sudan,Africa,2021,December,146
+Sudan,Africa,2021,February,32
+Sudan,Africa,2021,January,23
+Sudan,Africa,2021,July,23
+Sudan,Africa,2021,June,30
+Sudan,Africa,2021,March,59
+Sudan,Africa,2021,May,47
+Sudan,Africa,2021,November,103
+Sudan,Africa,2021,October,93
+Sudan,Africa,2021,September,36
+Sudan,Africa,2022,April,299
+Sudan,Africa,2022,August,1014
+Sudan,Africa,2022,December,850
+Sudan,Africa,2022,February,184
+Sudan,Africa,2022,January,143
+Sudan,Africa,2022,July,914
+Sudan,Africa,2022,June,634
+Sudan,Africa,2022,March,219
+Sudan,Africa,2022,May,668
+Sudan,Africa,2022,November,801
+Sudan,Africa,2022,October,815
+Sudan,Africa,2022,September,874
+Sudan,Africa,2023,April,467
+Sudan,Africa,2023,August,1480
+Sudan,Africa,2023,December,1368
+Sudan,Africa,2023,February,937
+Sudan,Africa,2023,January,1111
+Sudan,Africa,2023,July,1238
+Sudan,Africa,2023,June,867
+Sudan,Africa,2023,March,948
+Sudan,Africa,2023,May,445
+Sudan,Africa,2023,November,1533
+Sudan,Africa,2023,October,1244
+Sudan,Africa,2023,September,1066
+Sudan,Africa,2024,April,855
+Sudan,Africa,2024,February,1110
+Sudan,Africa,2024,January,1483
+Sudan,Africa,2024,June,1533
+Sudan,Africa,2024,March,888
+Sudan,Africa,2024,May,835
+Suriname,South America,2020,April,0
+Suriname,South America,2020,August,0
+Suriname,South America,2020,December,0
+Suriname,South America,2020,February,8
+Suriname,South America,2020,January,15
+Suriname,South America,2020,July,0
+Suriname,South America,2020,June,0
+Suriname,South America,2020,March,9
+Suriname,South America,2020,May,0
+Suriname,South America,2020,November,0
+Suriname,South America,2020,October,0
+Suriname,South America,2020,September,0
+Suriname,South America,2021,April,0
+Suriname,South America,2021,August,0
+Suriname,South America,2021,December,0
+Suriname,South America,2021,February,0
+Suriname,South America,2021,January,0
+Suriname,South America,2021,July,0
+Suriname,South America,2021,June,0
+Suriname,South America,2021,March,0
+Suriname,South America,2021,May,0
+Suriname,South America,2021,November,0
+Suriname,South America,2021,October,0
+Suriname,South America,2021,September,0
+Suriname,South America,2022,April,1
+Suriname,South America,2022,August,8
+Suriname,South America,2022,December,20
+Suriname,South America,2022,February,0
+Suriname,South America,2022,January,0
+Suriname,South America,2022,July,5
+Suriname,South America,2022,June,5
+Suriname,South America,2022,March,0
+Suriname,South America,2022,May,3
+Suriname,South America,2022,November,14
+Suriname,South America,2022,October,44
+Suriname,South America,2022,September,8
+Suriname,South America,2023,April,24
+Suriname,South America,2023,August,42
+Suriname,South America,2023,December,19
+Suriname,South America,2023,February,15
+Suriname,South America,2023,January,11
+Suriname,South America,2023,July,28
+Suriname,South America,2023,June,24
+Suriname,South America,2023,March,16
+Suriname,South America,2023,May,37
+Suriname,South America,2023,November,20
+Suriname,South America,2023,October,23
+Suriname,South America,2023,September,83
+Suriname,South America,2024,April,29
+Suriname,South America,2024,February,14
+Suriname,South America,2024,January,14
+Suriname,South America,2024,June,21
+Suriname,South America,2024,March,23
+Suriname,South America,2024,May,33
+Sweden,Europe,2020,April,3
+Sweden,Europe,2020,August,17
+Sweden,Europe,2020,December,22
+Sweden,Europe,2020,February,3960
+Sweden,Europe,2020,January,4792
+Sweden,Europe,2020,July,39
+Sweden,Europe,2020,June,0
+Sweden,Europe,2020,March,1380
+Sweden,Europe,2020,May,1
+Sweden,Europe,2020,November,25
+Sweden,Europe,2020,October,22
+Sweden,Europe,2020,September,10
+Sweden,Europe,2021,April,34
+Sweden,Europe,2021,August,35
+Sweden,Europe,2021,December,82
+Sweden,Europe,2021,February,28
+Sweden,Europe,2021,January,30
+Sweden,Europe,2021,July,27
+Sweden,Europe,2021,June,11
+Sweden,Europe,2021,March,28
+Sweden,Europe,2021,May,39
+Sweden,Europe,2021,November,29
+Sweden,Europe,2021,October,39
+Sweden,Europe,2021,September,51
+Sweden,Europe,2022,April,543
+Sweden,Europe,2022,August,782
+Sweden,Europe,2022,December,1780
+Sweden,Europe,2022,February,71
+Sweden,Europe,2022,January,87
+Sweden,Europe,2022,July,1000
+Sweden,Europe,2022,June,727
+Sweden,Europe,2022,March,92
+Sweden,Europe,2022,May,632
+Sweden,Europe,2022,November,1465
+Sweden,Europe,2022,October,1224
+Sweden,Europe,2022,September,1018
+Sweden,Europe,2023,April,1562
+Sweden,Europe,2023,August,1199
+Sweden,Europe,2023,December,2776
+Sweden,Europe,2023,February,2412
+Sweden,Europe,2023,January,2179
+Sweden,Europe,2023,July,1492
+Sweden,Europe,2023,June,1114
+Sweden,Europe,2023,March,2159
+Sweden,Europe,2023,May,1052
+Sweden,Europe,2023,November,1951
+Sweden,Europe,2023,October,1563
+Sweden,Europe,2023,September,1222
+Sweden,Europe,2024,April,1481
+Sweden,Europe,2024,February,3012
+Sweden,Europe,2024,January,3090
+Sweden,Europe,2024,June,1577
+Sweden,Europe,2024,March,2436
+Sweden,Europe,2024,May,1092
+Switzerland,Europe,2020,April,1
+Switzerland,Europe,2020,August,10
+Switzerland,Europe,2020,December,7
+Switzerland,Europe,2020,February,2419
+Switzerland,Europe,2020,January,2446
+Switzerland,Europe,2020,July,18
+Switzerland,Europe,2020,June,3
+Switzerland,Europe,2020,March,1082
+Switzerland,Europe,2020,May,1
+Switzerland,Europe,2020,November,16
+Switzerland,Europe,2020,October,23
+Switzerland,Europe,2020,September,17
+Switzerland,Europe,2021,April,21
+Switzerland,Europe,2021,August,19
+Switzerland,Europe,2021,December,74
+Switzerland,Europe,2021,February,9
+Switzerland,Europe,2021,January,16
+Switzerland,Europe,2021,July,10
+Switzerland,Europe,2021,June,12
+Switzerland,Europe,2021,March,20
+Switzerland,Europe,2021,May,11
+Switzerland,Europe,2021,November,31
+Switzerland,Europe,2021,October,43
+Switzerland,Europe,2021,September,23
+Switzerland,Europe,2022,April,569
+Switzerland,Europe,2022,August,1560
+Switzerland,Europe,2022,December,1593
+Switzerland,Europe,2022,February,60
+Switzerland,Europe,2022,January,118
+Switzerland,Europe,2022,July,1885
+Switzerland,Europe,2022,June,865
+Switzerland,Europe,2022,March,89
+Switzerland,Europe,2022,May,773
+Switzerland,Europe,2022,November,1627
+Switzerland,Europe,2022,October,1778
+Switzerland,Europe,2022,September,1285
+Switzerland,Europe,2023,April,2210
+Switzerland,Europe,2023,August,2403
+Switzerland,Europe,2023,December,2644
+Switzerland,Europe,2023,February,2109
+Switzerland,Europe,2023,January,1893
+Switzerland,Europe,2023,July,3816
+Switzerland,Europe,2023,June,1311
+Switzerland,Europe,2023,March,2145
+Switzerland,Europe,2023,May,1787
+Switzerland,Europe,2023,November,2177
+Switzerland,Europe,2023,October,2126
+Switzerland,Europe,2023,September,1972
+Switzerland,Europe,2024,April,2678
+Switzerland,Europe,2024,February,2919
+Switzerland,Europe,2024,January,2795
+Switzerland,Europe,2024,June,1988
+Switzerland,Europe,2024,March,2948
+Switzerland,Europe,2024,May,2018
+Thailand,Asia,2020,April,13950
+Thailand,Asia,2020,August,14922
+Thailand,Asia,2020,December,23324
+Thailand,Asia,2020,February,148430
+Thailand,Asia,2020,January,165073
+Thailand,Asia,2020,July,12722
+Thailand,Asia,2020,June,11904
+Thailand,Asia,2020,March,86177
+Thailand,Asia,2020,May,13137
+Thailand,Asia,2020,November,17634
+Thailand,Asia,2020,October,15325
+Thailand,Asia,2020,September,14738
+Thailand,Asia,2021,April,26270
+Thailand,Asia,2021,August,24054
+Thailand,Asia,2021,December,28042
+Thailand,Asia,2021,February,25581
+Thailand,Asia,2021,January,27961
+Thailand,Asia,2021,July,24628
+Thailand,Asia,2021,June,24622
+Thailand,Asia,2021,March,30565
+Thailand,Asia,2021,May,27298
+Thailand,Asia,2021,November,25951
+Thailand,Asia,2021,October,27544
+Thailand,Asia,2021,September,26849
+Thailand,Asia,2022,April,33669
+Thailand,Asia,2022,August,152050
+Thailand,Asia,2022,December,159886
+Thailand,Asia,2022,February,26276
+Thailand,Asia,2022,January,28647
+Thailand,Asia,2022,July,129092
+Thailand,Asia,2022,June,97628
+Thailand,Asia,2022,March,31127
+Thailand,Asia,2022,May,64707
+Thailand,Asia,2022,November,168282
+Thailand,Asia,2022,October,185888
+Thailand,Asia,2022,September,136382
+Thailand,Asia,2023,April,195057
+Thailand,Asia,2023,August,171417
+Thailand,Asia,2023,December,195485
+Thailand,Asia,2023,February,189555
+Thailand,Asia,2023,January,190763
+Thailand,Asia,2023,July,210796
+Thailand,Asia,2023,June,154219
+Thailand,Asia,2023,March,237093
+Thailand,Asia,2023,May,215198
+Thailand,Asia,2023,November,190980
+Thailand,Asia,2023,October,227509
+Thailand,Asia,2023,September,184150
+Thailand,Asia,2024,April,193811
+Thailand,Asia,2024,February,202799
+Thailand,Asia,2024,January,210911
+Thailand,Asia,2024,June,178996
+Thailand,Asia,2024,March,225012
+Thailand,Asia,2024,May,203332
+Tonga,Oceania,2020,April,0
+Tonga,Oceania,2020,August,0
+Tonga,Oceania,2020,December,0
+Tonga,Oceania,2020,February,8
+Tonga,Oceania,2020,January,13
+Tonga,Oceania,2020,July,0
+Tonga,Oceania,2020,June,0
+Tonga,Oceania,2020,March,2
+Tonga,Oceania,2020,May,0
+Tonga,Oceania,2020,November,0
+Tonga,Oceania,2020,October,0
+Tonga,Oceania,2020,September,0
+Tonga,Oceania,2021,April,0
+Tonga,Oceania,2021,August,0
+Tonga,Oceania,2021,December,0
+Tonga,Oceania,2021,February,0
+Tonga,Oceania,2021,January,0
+Tonga,Oceania,2021,July,0
+Tonga,Oceania,2021,June,0
+Tonga,Oceania,2021,March,0
+Tonga,Oceania,2021,May,0
+Tonga,Oceania,2021,November,0
+Tonga,Oceania,2021,October,0
+Tonga,Oceania,2021,September,0
+Tonga,Oceania,2022,April,13
+Tonga,Oceania,2022,August,6
+Tonga,Oceania,2022,December,7
+Tonga,Oceania,2022,February,0
+Tonga,Oceania,2022,January,0
+Tonga,Oceania,2022,July,9
+Tonga,Oceania,2022,June,0
+Tonga,Oceania,2022,March,1
+Tonga,Oceania,2022,May,3
+Tonga,Oceania,2022,November,11
+Tonga,Oceania,2022,October,14
+Tonga,Oceania,2022,September,14
+Tonga,Oceania,2023,April,14
+Tonga,Oceania,2023,August,12
+Tonga,Oceania,2023,December,19
+Tonga,Oceania,2023,February,10
+Tonga,Oceania,2023,January,14
+Tonga,Oceania,2023,July,10
+Tonga,Oceania,2023,June,6
+Tonga,Oceania,2023,March,11
+Tonga,Oceania,2023,May,8
+Tonga,Oceania,2023,November,29
+Tonga,Oceania,2023,October,37
+Tonga,Oceania,2023,September,19
+Tonga,Oceania,2024,April,25
+Tonga,Oceania,2024,February,21
+Tonga,Oceania,2024,January,41
+Tonga,Oceania,2024,June,17
+Tonga,Oceania,2024,March,14
+Tonga,Oceania,2024,May,16
+Trinidad and Tobago,North America,2020,April,0
+Trinidad and Tobago,North America,2020,August,0
+Trinidad and Tobago,North America,2020,December,0
+Trinidad and Tobago,North America,2020,February,42
+Trinidad and Tobago,North America,2020,January,52
+Trinidad and Tobago,North America,2020,July,0
+Trinidad and Tobago,North America,2020,June,0
+Trinidad and Tobago,North America,2020,March,20
+Trinidad and Tobago,North America,2020,May,0
+Trinidad and Tobago,North America,2020,November,1
+Trinidad and Tobago,North America,2020,October,0
+Trinidad and Tobago,North America,2020,September,0
+Trinidad and Tobago,North America,2021,April,1
+Trinidad and Tobago,North America,2021,August,0
+Trinidad and Tobago,North America,2021,December,0
+Trinidad and Tobago,North America,2021,February,1
+Trinidad and Tobago,North America,2021,January,3
+Trinidad and Tobago,North America,2021,July,2
+Trinidad and Tobago,North America,2021,June,1
+Trinidad and Tobago,North America,2021,March,0
+Trinidad and Tobago,North America,2021,May,1
+Trinidad and Tobago,North America,2021,November,3
+Trinidad and Tobago,North America,2021,October,1
+Trinidad and Tobago,North America,2021,September,1
+Trinidad and Tobago,North America,2022,April,16
+Trinidad and Tobago,North America,2022,August,45
+Trinidad and Tobago,North America,2022,December,33
+Trinidad and Tobago,North America,2022,February,1
+Trinidad and Tobago,North America,2022,January,7
+Trinidad and Tobago,North America,2022,July,21
+Trinidad and Tobago,North America,2022,June,7
+Trinidad and Tobago,North America,2022,March,5
+Trinidad and Tobago,North America,2022,May,11
+Trinidad and Tobago,North America,2022,November,43
+Trinidad and Tobago,North America,2022,October,47
+Trinidad and Tobago,North America,2022,September,16
+Trinidad and Tobago,North America,2023,April,41
+Trinidad and Tobago,North America,2023,August,60
+Trinidad and Tobago,North America,2023,December,39
+Trinidad and Tobago,North America,2023,February,17
+Trinidad and Tobago,North America,2023,January,26
+Trinidad and Tobago,North America,2023,July,76
+Trinidad and Tobago,North America,2023,June,33
+Trinidad and Tobago,North America,2023,March,33
+Trinidad and Tobago,North America,2023,May,56
+Trinidad and Tobago,North America,2023,November,46
+Trinidad and Tobago,North America,2023,October,50
+Trinidad and Tobago,North America,2023,September,54
+Trinidad and Tobago,North America,2024,April,37
+Trinidad and Tobago,North America,2024,February,54
+Trinidad and Tobago,North America,2024,January,33
+Trinidad and Tobago,North America,2024,June,39
+Trinidad and Tobago,North America,2024,March,38
+Trinidad and Tobago,North America,2024,May,45
+Tunisia,Africa,2020,April,0
+Tunisia,Africa,2020,August,5
+Tunisia,Africa,2020,December,1
+Tunisia,Africa,2020,February,320
+Tunisia,Africa,2020,January,404
+Tunisia,Africa,2020,July,2
+Tunisia,Africa,2020,June,0
+Tunisia,Africa,2020,March,137
+Tunisia,Africa,2020,May,0
+Tunisia,Africa,2020,November,2
+Tunisia,Africa,2020,October,7
+Tunisia,Africa,2020,September,6
+Tunisia,Africa,2021,April,6
+Tunisia,Africa,2021,August,2
+Tunisia,Africa,2021,December,11
+Tunisia,Africa,2021,February,3
+Tunisia,Africa,2021,January,4
+Tunisia,Africa,2021,July,1
+Tunisia,Africa,2021,June,1
+Tunisia,Africa,2021,March,9
+Tunisia,Africa,2021,May,9
+Tunisia,Africa,2021,November,12
+Tunisia,Africa,2021,October,10
+Tunisia,Africa,2021,September,10
+Tunisia,Africa,2022,April,77
+Tunisia,Africa,2022,August,701
+Tunisia,Africa,2022,December,326
+Tunisia,Africa,2022,February,19
+Tunisia,Africa,2022,January,24
+Tunisia,Africa,2022,July,316
+Tunisia,Africa,2022,June,209
+Tunisia,Africa,2022,March,20
+Tunisia,Africa,2022,May,151
+Tunisia,Africa,2022,November,342
+Tunisia,Africa,2022,October,462
+Tunisia,Africa,2022,September,545
+Tunisia,Africa,2023,April,231
+Tunisia,Africa,2023,August,2273
+Tunisia,Africa,2023,December,873
+Tunisia,Africa,2023,February,291
+Tunisia,Africa,2023,January,620
+Tunisia,Africa,2023,July,1094
+Tunisia,Africa,2023,June,362
+Tunisia,Africa,2023,March,364
+Tunisia,Africa,2023,May,679
+Tunisia,Africa,2023,November,688
+Tunisia,Africa,2023,October,953
+Tunisia,Africa,2023,September,1765
+Tunisia,Africa,2024,April,684
+Tunisia,Africa,2024,February,761
+Tunisia,Africa,2024,January,860
+Tunisia,Africa,2024,June,509
+Tunisia,Africa,2024,March,373
+Tunisia,Africa,2024,May,858
+United Kingdom,Europe,2020,April,18
+United Kingdom,Europe,2020,August,365
+United Kingdom,Europe,2020,December,190
+United Kingdom,Europe,2020,February,28520
+United Kingdom,Europe,2020,January,31639
+United Kingdom,Europe,2020,July,271
+United Kingdom,Europe,2020,June,101
+United Kingdom,Europe,2020,March,13306
+United Kingdom,Europe,2020,May,59
+United Kingdom,Europe,2020,November,242
+United Kingdom,Europe,2020,October,219
+United Kingdom,Europe,2020,September,246
+United Kingdom,Europe,2021,April,230
+United Kingdom,Europe,2021,August,662
+United Kingdom,Europe,2021,December,1391
+United Kingdom,Europe,2021,February,256
+United Kingdom,Europe,2021,January,243
+United Kingdom,Europe,2021,July,396
+United Kingdom,Europe,2021,June,149
+United Kingdom,Europe,2021,March,238
+United Kingdom,Europe,2021,May,246
+United Kingdom,Europe,2021,November,455
+United Kingdom,Europe,2021,October,372
+United Kingdom,Europe,2021,September,369
+United Kingdom,Europe,2022,April,8297
+United Kingdom,Europe,2022,August,23627
+United Kingdom,Europe,2022,December,22403
+United Kingdom,Europe,2022,February,989
+United Kingdom,Europe,2022,January,1798
+United Kingdom,Europe,2022,July,20099
+United Kingdom,Europe,2022,June,12646
+United Kingdom,Europe,2022,March,1357
+United Kingdom,Europe,2022,May,11114
+United Kingdom,Europe,2022,November,20416
+United Kingdom,Europe,2022,October,23481
+United Kingdom,Europe,2022,September,17771
+United Kingdom,Europe,2023,April,28367
+United Kingdom,Europe,2023,August,33345
+United Kingdom,Europe,2023,December,35206
+United Kingdom,Europe,2023,February,23886
+United Kingdom,Europe,2023,January,25040
+United Kingdom,Europe,2023,July,33270
+United Kingdom,Europe,2023,June,19438
+United Kingdom,Europe,2023,March,27052
+United Kingdom,Europe,2023,May,22963
+United Kingdom,Europe,2023,November,26501
+United Kingdom,Europe,2023,October,26957
+United Kingdom,Europe,2023,September,23628
+United Kingdom,Europe,2024,April,34606
+United Kingdom,Europe,2024,February,39306
+United Kingdom,Europe,2024,January,35792
+United Kingdom,Europe,2024,June,28668
+United Kingdom,Europe,2024,March,44040
+United Kingdom,Europe,2024,May,27973
+United States,North America,2020,April,16
+United States,North America,2020,August,139
+United States,North America,2020,December,122
+United States,North America,2020,February,17482
+United States,North America,2020,January,29180
+United States,North America,2020,July,195
+United States,North America,2020,June,50
+United States,North America,2020,March,6841
+United States,North America,2020,May,23
+United States,North America,2020,November,116
+United States,North America,2020,October,111
+United States,North America,2020,September,181
+United States,North America,2021,April,170
+United States,North America,2021,August,273
+United States,North America,2021,December,741
+United States,North America,2021,February,121
+United States,North America,2021,January,188
+United States,North America,2021,July,461
+United States,North America,2021,June,159
+United States,North America,2021,March,156
+United States,North America,2021,May,159
+United States,North America,2021,November,335
+United States,North America,2021,October,264
+United States,North America,2021,September,238
+United States,North America,2022,April,5049
+United States,North America,2022,August,14341
+United States,North America,2022,December,19137
+United States,North America,2022,February,692
+United States,North America,2022,January,1096
+United States,North America,2022,July,16053
+United States,North America,2022,June,12643
+United States,North America,2022,March,927
+United States,North America,2022,May,8700
+United States,North America,2022,November,17239
+United States,North America,2022,October,16881
+United States,North America,2022,September,13778
+United States,North America,2023,April,18592
+United States,North America,2023,August,22168
+United States,North America,2023,December,31670
+United States,North America,2023,February,18243
+United States,North America,2023,January,20483
+United States,North America,2023,July,28263
+United States,North America,2023,June,20440
+United States,North America,2023,March,21570
+United States,North America,2023,May,19788
+United States,North America,2023,November,23396
+United States,North America,2023,October,21696
+United States,North America,2023,September,21031
+United States,North America,2024,April,23304
+United States,North America,2024,February,25710
+United States,North America,2024,January,26014
+United States,North America,2024,June,28746
+United States,North America,2024,March,29005
+United States,North America,2024,May,23267
+Uruguay,South America,2020,April,0
+Uruguay,South America,2020,August,0
+Uruguay,South America,2020,December,0
+Uruguay,South America,2020,February,78
+Uruguay,South America,2020,January,95
+Uruguay,South America,2020,July,0
+Uruguay,South America,2020,June,0
+Uruguay,South America,2020,March,306
+Uruguay,South America,2020,May,0
+Uruguay,South America,2020,November,1
+Uruguay,South America,2020,October,0
+Uruguay,South America,2020,September,0
+Uruguay,South America,2021,April,0
+Uruguay,South America,2021,August,0
+Uruguay,South America,2021,December,6
+Uruguay,South America,2021,February,0
+Uruguay,South America,2021,January,0
+Uruguay,South America,2021,July,0
+Uruguay,South America,2021,June,0
+Uruguay,South America,2021,March,0
+Uruguay,South America,2021,May,0
+Uruguay,South America,2021,November,0
+Uruguay,South America,2021,October,2
+Uruguay,South America,2021,September,1
+Uruguay,South America,2022,April,18
+Uruguay,South America,2022,August,17
+Uruguay,South America,2022,December,49
+Uruguay,South America,2022,February,1
+Uruguay,South America,2022,January,0
+Uruguay,South America,2022,July,33
+Uruguay,South America,2022,June,21
+Uruguay,South America,2022,March,1
+Uruguay,South America,2022,May,12
+Uruguay,South America,2022,November,50
+Uruguay,South America,2022,October,60
+Uruguay,South America,2022,September,20
+Uruguay,South America,2023,April,205
+Uruguay,South America,2023,August,84
+Uruguay,South America,2023,December,51
+Uruguay,South America,2023,February,188
+Uruguay,South America,2023,January,69
+Uruguay,South America,2023,July,49
+Uruguay,South America,2023,June,46
+Uruguay,South America,2023,March,193
+Uruguay,South America,2023,May,290
+Uruguay,South America,2023,November,82
+Uruguay,South America,2023,October,70
+Uruguay,South America,2023,September,41
+Uruguay,South America,2024,April,178
+Uruguay,South America,2024,February,59
+Uruguay,South America,2024,January,82
+Uruguay,South America,2024,June,71
+Uruguay,South America,2024,March,171
+Uruguay,South America,2024,May,69
+Vanuatu,Oceania,2020,April,0
+Vanuatu,Oceania,2020,August,0
+Vanuatu,Oceania,2020,December,0
+Vanuatu,Oceania,2020,February,68
+Vanuatu,Oceania,2020,January,115
+Vanuatu,Oceania,2020,July,0
+Vanuatu,Oceania,2020,June,0
+Vanuatu,Oceania,2020,March,42
+Vanuatu,Oceania,2020,May,0
+Vanuatu,Oceania,2020,November,0
+Vanuatu,Oceania,2020,October,0
+Vanuatu,Oceania,2020,September,1
+Vanuatu,Oceania,2021,April,0
+Vanuatu,Oceania,2021,August,0
+Vanuatu,Oceania,2021,December,6
+Vanuatu,Oceania,2021,February,1
+Vanuatu,Oceania,2021,January,0
+Vanuatu,Oceania,2021,July,0
+Vanuatu,Oceania,2021,June,0
+Vanuatu,Oceania,2021,March,1
+Vanuatu,Oceania,2021,May,0
+Vanuatu,Oceania,2021,November,0
+Vanuatu,Oceania,2021,October,0
+Vanuatu,Oceania,2021,September,1
+Vanuatu,Oceania,2022,April,13
+Vanuatu,Oceania,2022,August,62
+Vanuatu,Oceania,2022,December,81
+Vanuatu,Oceania,2022,February,4
+Vanuatu,Oceania,2022,January,1
+Vanuatu,Oceania,2022,July,35
+Vanuatu,Oceania,2022,June,39
+Vanuatu,Oceania,2022,March,3
+Vanuatu,Oceania,2022,May,58
+Vanuatu,Oceania,2022,November,67
+Vanuatu,Oceania,2022,October,72
+Vanuatu,Oceania,2022,September,65
+Vanuatu,Oceania,2023,April,87
+Vanuatu,Oceania,2023,August,165
+Vanuatu,Oceania,2023,December,165
+Vanuatu,Oceania,2023,February,60
+Vanuatu,Oceania,2023,January,87
+Vanuatu,Oceania,2023,July,102
+Vanuatu,Oceania,2023,June,87
+Vanuatu,Oceania,2023,March,112
+Vanuatu,Oceania,2023,May,99
+Vanuatu,Oceania,2023,November,131
+Vanuatu,Oceania,2023,October,146
+Vanuatu,Oceania,2023,September,174
+Vanuatu,Oceania,2024,April,124
+Vanuatu,Oceania,2024,February,150
+Vanuatu,Oceania,2024,January,120
+Vanuatu,Oceania,2024,June,170
+Vanuatu,Oceania,2024,March,129
+Vanuatu,Oceania,2024,May,127
+Venezuela,South America,2020,April,0
+Venezuela,South America,2020,August,0
+Venezuela,South America,2020,December,1
+Venezuela,South America,2020,February,122
+Venezuela,South America,2020,January,144
+Venezuela,South America,2020,July,1
+Venezuela,South America,2020,June,2
+Venezuela,South America,2020,March,51
+Venezuela,South America,2020,May,0
+Venezuela,South America,2020,November,0
+Venezuela,South America,2020,October,1
+Venezuela,South America,2020,September,1
+Venezuela,South America,2021,April,2
+Venezuela,South America,2021,August,7
+Venezuela,South America,2021,December,4
+Venezuela,South America,2021,February,1
+Venezuela,South America,2021,January,4
+Venezuela,South America,2021,July,4
+Venezuela,South America,2021,June,0
+Venezuela,South America,2021,March,2
+Venezuela,South America,2021,May,4
+Venezuela,South America,2021,November,3
+Venezuela,South America,2021,October,1
+Venezuela,South America,2021,September,5
+Venezuela,South America,2022,April,23
+Venezuela,South America,2022,August,63
+Venezuela,South America,2022,December,72
+Venezuela,South America,2022,February,6
+Venezuela,South America,2022,January,19
+Venezuela,South America,2022,July,38
+Venezuela,South America,2022,June,44
+Venezuela,South America,2022,March,14
+Venezuela,South America,2022,May,47
+Venezuela,South America,2022,November,56
+Venezuela,South America,2022,October,88
+Venezuela,South America,2022,September,60
+Venezuela,South America,2023,April,99
+Venezuela,South America,2023,August,112
+Venezuela,South America,2023,December,115
+Venezuela,South America,2023,February,72
+Venezuela,South America,2023,January,106
+Venezuela,South America,2023,July,135
+Venezuela,South America,2023,June,85
+Venezuela,South America,2023,March,94
+Venezuela,South America,2023,May,118
+Venezuela,South America,2023,November,96
+Venezuela,South America,2023,October,111
+Venezuela,South America,2023,September,107
+Venezuela,South America,2024,April,132
+Venezuela,South America,2024,February,123
+Venezuela,South America,2024,January,115
+Venezuela,South America,2024,June,99
+Venezuela,South America,2024,March,136
+Venezuela,South America,2024,May,126
+Vietnam,Asia,2020,April,16
+Vietnam,Asia,2020,August,109
+Vietnam,Asia,2020,December,96
+Vietnam,Asia,2020,February,28011
+Vietnam,Asia,2020,January,33278
+Vietnam,Asia,2020,July,167
+Vietnam,Asia,2020,June,32
+Vietnam,Asia,2020,March,9951
+Vietnam,Asia,2020,May,50
+Vietnam,Asia,2020,November,173
+Vietnam,Asia,2020,October,98
+Vietnam,Asia,2020,September,98
+Vietnam,Asia,2021,April,120
+Vietnam,Asia,2021,August,35
+Vietnam,Asia,2021,December,258
+Vietnam,Asia,2021,February,81
+Vietnam,Asia,2021,January,103
+Vietnam,Asia,2021,July,54
+Vietnam,Asia,2021,June,65
+Vietnam,Asia,2021,March,133
+Vietnam,Asia,2021,May,109
+Vietnam,Asia,2021,November,134
+Vietnam,Asia,2021,October,155
+Vietnam,Asia,2021,September,58
+Vietnam,Asia,2022,April,7733
+Vietnam,Asia,2022,August,29688
+Vietnam,Asia,2022,December,22375
+Vietnam,Asia,2022,February,531
+Vietnam,Asia,2022,January,288
+Vietnam,Asia,2022,July,27639
+Vietnam,Asia,2022,June,20944
+Vietnam,Asia,2022,March,863
+Vietnam,Asia,2022,May,13659
+Vietnam,Asia,2022,November,23411
+Vietnam,Asia,2022,October,26678
+Vietnam,Asia,2022,September,26313
+Vietnam,Asia,2023,April,29742
+Vietnam,Asia,2023,August,43537
+Vietnam,Asia,2023,December,25152
+Vietnam,Asia,2023,February,26281
+Vietnam,Asia,2023,January,25067
+Vietnam,Asia,2023,July,49792
+Vietnam,Asia,2023,June,34515
+Vietnam,Asia,2023,March,34209
+Vietnam,Asia,2023,May,39323
+Vietnam,Asia,2023,November,29124
+Vietnam,Asia,2023,October,31667
+Vietnam,Asia,2023,September,33736
+Vietnam,Asia,2024,April,32790
+Vietnam,Asia,2024,February,33033
+Vietnam,Asia,2024,January,24227
+Vietnam,Asia,2024,June,43703
+Vietnam,Asia,2024,March,36278
+Vietnam,Asia,2024,May,32679

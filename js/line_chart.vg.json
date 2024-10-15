@@ -9,7 +9,7 @@
   "width": "container",
   "height": 400,
   "data": {
-    "url": "data/arrivals_data_line_chart.csv",
+    "url": "data/continent_arrivals_data_line_chart.csv",
     "format": {
       "type": "csv"
     }
@@ -19,10 +19,11 @@
       "name": "Continent_selection",
       "bind": {
         "input": "select",
-        "options": [null, "Asia", "Europe", "Africa", "Americas", "Oceania"],
-        "labels": ["Show All", "Asia", "Europe", "Africa", "Americas", "Oceania"],
+        "options": ["Asia", "Europe", "Africa", "Americas", "Oceania"],
+        "labels": ["Asia", "Europe", "Africa", "Americas", "Oceania"],
         "name": "Continent Selection: "
-      }
+      },
+      "value":"Asia"
     },
     {
       "name": "Year_selection",
@@ -33,7 +34,7 @@
         "step": 1,
         "name": "Select Year: "
       },
-      "value": 2022
+      "value": 2020
     }
   ],
   "transform": [
