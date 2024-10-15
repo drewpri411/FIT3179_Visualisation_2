@@ -8,7 +8,7 @@
       "name": "Continent_selection",
       "bind": {
         "input": "select",
-        "options": ["Asia", "Europe", "Africa", "Americas", "Oceania"],
+        "options": ["Asia", "Europe", "Africa", "North America","Oceania"],
         "name": "Continent Selection: "
       },
       "value": "Asia"
@@ -42,6 +42,10 @@
       "as": ["Gender", "Migrants"]
     },
     {
+      "calculate": "datum.Gender == 'Male_Migrants' ? 'Male' : 'Female'",
+      "as": "Gender_Label"
+    },
+    {
       "calculate": "datum.country_name + ' ' + datum.Country_Flag",
       "as": "Country_Label"
     }
@@ -61,12 +65,11 @@
       },
       "y": {
         "aggregate": "sum",
-        "field": {"repeat": "layer"},
+        "field": "Migrants",
         "type": "quantitative",
         "title": "Number of Migrants",
         "scale": {
-          "type": "log",
-          "domainMin": 100
+          "type": "log"
         },
         "axis": {
           "labelFontSize": 12,
@@ -74,20 +77,20 @@
         }
       },
       "color": {
-        "datum": {"repeat": "layer"},
+        "field": "Gender_Label",
         "scale": {
-          "domain": ["Female_Migrants", "Male_Migrants"],
+          "domain": ["Female", "Male"],
           "range": ["#FFA500", "#1E90FF"]
         },
         "title": "Gender"
       },
-      "xOffset": {"datum": {"repeat": "layer"}},
+      "xOffset": {"field": "Gender_Label"},
       "tooltip": [
         {"field": "country_name", "title": "Country"},
         {"field": "Country_Flag", "title": "Flag"},
-        {"field": "Gender", "title": "Gender"},
+        {"field": "Gender_Label", "title": "Gender"},
         {
-          "field": {"repeat": "layer"},
+          "field": "Migrants",
           "title": "Number of Migrants",
           "type": "quantitative",
           "format": ","

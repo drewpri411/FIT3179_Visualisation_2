@@ -1,23 +1,41 @@
+# Required libraries
 import pandas as pd
-import flag  # To convert country ISO codes to flag emojis
+import country_converter as coco
+from pycountry_convert import country_alpha3_to_country_alpha2, country_alpha2_to_continent_code, convert_continent_code_to_continent_name
 
-# Load the dataset (assuming it already contains ISO codes)
-file_path = '/mnt/data/transformed_migrant_data_with_flags.csv'  # Adjust path if necessary
-df = pd.read_csv(file_path)
+# Load the dataset
+file_path = 'data/arrivals.csv'  # Replace with your local file path
+data = pd.read_csv(file_path)
 
-# Function to convert ISO code to flag emoji
-def get_country_flag(iso_code):
+# Convert ISO3 country codes to country names
+data['country_name'] = coco.convert(names=data['country'], to='name_short')
+
+# Extract year and month as text from the 'date' column
+data['year'] = pd.to_datetime(data['date']).dt.year
+data['month'] = pd.to_datetime(data['date']).dt.strftime('%B')
+
+# Function to map country ISO3 to continent
+def get_continent_from_iso3(iso3_code):
     try:
-        return flag.flag(iso_code)  # Convert ISO code to flag
+        alpha2_code = country_alpha3_to_country_alpha2(iso3_code)
+        continent_code = country_alpha2_to_continent_code(alpha2_code)
+        return convert_continent_code_to_continent_name(continent_code)
     except KeyError:
-        return "🏳️"  # Default white flag for ISO codes not found
+        return None
 
-# Assuming there is a column for ISO country codes (adjust column name if necessary)
-df['Country_Flag'] = df['iso_country_code'].apply(get_country_flag)
+# Add continent information
+data['continent'] = data['country'].apply(get_continent_from_iso3)
 
-# Create a new combined field with country name and flag
-df['Country_Name_Flag'] = df['country_name'] + ' ' + df['Country_Flag']
+# Drop rows where continent is not identified (e.g., ALL entries)
+data_filtered = data.dropna(subset=['continent'])
 
-# Save the updated dataset
-df.to_csv('/mnt/data/transformed_migrant_data_with_flags.csv', index=False)
-print(df[['country_name', 'iso_country_code', 'Country_Flag', 'Country_Name_Flag']].head())
+# Group the data by country, continent, year, and month, and calculate the monthly total
+grouped_data = data_filtered.groupby(['country_name', 'continent', 'year', 'month']).agg(
+    monthly_total=('arrivals', 'sum')
+).reset_index()
+
+# Save the transformed data to a new file
+output_file_path = 'transformed_arrivals_data.csv'
+grouped_data.to_csv(output_file_path, index=False)
+
+print(f"Transformed data saved to {output_file_path}")
