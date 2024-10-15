@@ -32,51 +32,61 @@
         </div>
         <div class="header-text">
           <h1>Overview of Migration to Malaysia (2020-2024)</h1>
-          <p>Explore global and regional migration patterns to Malaysia through various visualizations, analyzing trends, and geographical insights.</p>
+          <p>Explore global and regional migration patterns to Malaysia through various visualizations, analyzing trends, gender distribution, and geographical insights.</p>
         </div>
         <div class="emoji-right">
           <img src="https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/images/globe-showing-asia-australia.svg" alt="Globe Icon" class="header-icon" />
         </div>
       </div>
     </div>
+    
+    <!-- Global Migration Trends Section -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
-        <h2>Global Migration Trends to Malaysia (2020-2024)</h2>
+        <h2>Global Migration Trends to Malaysia</h2>
         <p>
-          The global map shows that countries in South Asia and Southeast Asia, such as Bangladesh, India, and Indonesia, are key contributors to migration into Malaysia. In contrast, migration from Europe and the Americas remains low. This highlights Malaysia’s reliance on labor from neighboring regions, where economic conditions often push workers to seek opportunities abroad.
+          The global map illustrates that South Asian and Southeast Asian countries, such as Bangladesh, India, and Indonesia, are key contributors to migration into Malaysia. In contrast, migration from Europe and the Americas remains low. This highlights Malaysia’s reliance on labor from neighboring regions, where economic conditions drive workers to seek better opportunities abroad.
         </p>
         <div id="choropleth_map" class="vis-container"></div>
       </div>
     </div>
+    
+    <!-- Line Graph Section: Top 10 Countries by Continent -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
-        <h2>The Impact of COVID-19 on Migration</h2>
+        <h2>Migration Arrivals by Continent and Country (Top 10 Countries)</h2>
         <p>
-          The line chart highlights a sharp drop in migration during April 2020 due to COVID-19 lockdowns. Migration flows from major source countries like Bangladesh and Indonesia fell dramatically, showing how the pandemic disrupted global mobility. Although migration slowly recovered by the end of 2020, the chart reflects how severely the crisis impacted Malaysia’s migrant labor market.
+          The line chart shows migration trends for the top 10 countries by continent over time. Users can filter by continent to explore how migration flows evolved between 2020 and 2024, revealing seasonal patterns and migration recovery post-2020. This visualization helps track migration trends from key source countries over the years.
         </p>
         <div id="line_chart" class="vis-container"></div>
       </div>
     </div>
+    
+    <!-- State-wise Migration Trends Section -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
         <h2>State-Wise Migration Trends in Malaysia</h2>
         <p>
-          The state-wise map illustrates that Selangor, Kuala Lumpur, and Johor were the top destinations for migrants during this period. These economically advanced regions attract most migrant workers, reflecting the high demand for labor in urban and industrial centers. States with less industrialization, such as those in East Malaysia, saw significantly lower migration.
+          The state-wise map highlights that Selangor, Kuala Lumpur, and Johor are the top destinations for migrants during this period. These economically advanced states attract a significant portion of foreign labor, particularly in urban and industrial centers. In contrast, less industrialized states in East Malaysia saw lower levels of migration.
         </p>
         <div id="state_choropleth_map" class="vis-container"></div>
       </div>
     </div>
+    
+    <!-- Gender Breakdown Section -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
-        <h2>Gender Breakdown of Migrants by Country</h2>
+        <h2>Gender Breakdown of Migrants by Country (Top 10 Countries)</h2>
         <p>
-          The gender breakdown chart reveals that countries like Indonesia and the Philippines send a more balanced mix of male and female migrants, while countries like Bangladesh and Pakistan send predominantly male migrants. This suggests differences in the types of jobs migrants take up in Malaysia, with men often working in construction and women in caregiving roles.
+          The gender breakdown bar chart reveals the male and female migration distribution from the top 10 countries. Countries like Indonesia and the Philippines send a more balanced mix of male and female migrants, while countries like Bangladesh and Pakistan primarily send male migrants. This reflects the types of jobs that migrants take up in Malaysia, with men often in construction and women in caregiving roles.
         </p>
         <div id="pyramid_chart" class="vis-container"></div>
       </div>
     </div>
 
   </div>
+  
+  <!-- Vega embed scripts -->
   <script type="text/javascript">
     var specChoropleth = "js/choropleth_map.vg.json";
     vegaEmbed('#choropleth_map', specChoropleth, { "actions": false }).catch(console.error);
@@ -89,7 +99,6 @@
 
     var specPyramid = "js/pyramid.vg.json";
     vegaEmbed('#pyramid_chart', specPyramid, { "actions": false }).catch(console.error);
-
   </script>
 
 </body>
