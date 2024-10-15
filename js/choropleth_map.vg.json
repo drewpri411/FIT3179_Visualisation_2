@@ -4,6 +4,19 @@
   "width": "container",
   "height": 400,
   "projection": {"type": "equalEarth"},
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 2020,
+        "max": 2024,
+        "step": 1,
+        "name": "Select Year: "
+      }
+    }
+  ],
   "layer": [
     {
       "data": {
@@ -35,22 +48,23 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W9_HW/main/js/ne_110m_new.topojson",
-        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_110m_new.topojson",
+        "format": {"type": "topojson", "feature": "countries"}
       },
       "transform": [
         {
           "lookup": "properties.ISO_A3",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W9_HW/main/data/normalized_arrivals.csv"
+              "url": "data/world_map_arrival_data.csv",
+              "format": {"type": "csv"}
             },
-            "key": "ISO3_code", 
-            "fields": ["ArrivalsPer1000"]
+            "key": "ISO3_code",
+            "fields": ["2020", "2021", "2022", "2023", "2024"]
           }
         },
         {
-          "calculate": "datum.ArrivalsPer1000 > 1000000 ? 1000000 : datum.ArrivalsPer1000", 
+          "calculate": "datum[yearSelector]", 
           "as": "MigrationPer1000"
         }
       ],

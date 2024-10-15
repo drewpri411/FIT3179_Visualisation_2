@@ -19,11 +19,11 @@
       "name": "Continent_selection",
       "bind": {
         "input": "select",
-        "options": ["Asia", "Europe", "Africa", "Americas", "Oceania"],
-        "labels": ["Asia", "Europe", "Africa", "Americas", "Oceania"],
+        "options": ["Asia", "Europe", "Africa", "North America", "South America", "Oceania"],
+        "labels": ["Asia", "Europe", "Africa", "North America", "South America", "Oceania"],
         "name": "Continent Selection: "
       },
-      "value":"Asia"
+      "value": "Asia"
     },
     {
       "name": "Year_selection",
@@ -81,7 +81,10 @@
         "color": {
           "field": "country_name",
           "type": "nominal",
-          "title": "Country"
+          "title": "Country",
+          "scale": {
+            "range": ["#E69F00", "#56B4E9", "#0072B2", "#F0E442", "#D55E00", "#CC79A7", "#999999", "#000000", "#4B0082", "#FF69B4"]
+          }
         },
         "tooltip": [
           {
@@ -103,6 +106,11 @@
       }
     },
     {
+      "transform": [
+        {
+          "filter": "Year_selection == 2020"
+        }
+      ],
       "mark": {
         "type": "rule",
         "color": "red",
@@ -116,6 +124,11 @@
       }
     },
     {
+      "transform": [
+        {
+          "filter": "Year_selection == 2020"
+        }
+      ],
       "mark": {
         "type": "text",
         "align": "left",
