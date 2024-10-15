@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {"url": "data/transformed_migrant_data_with_flags.csv", "format": {"type": "csv"}},
-  "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
   "width": "container",
   "height": 400,
   "params": [
@@ -47,39 +46,55 @@
       "as": "Country_Label"
     }
   ],
-  "encoding": {
-    "x": {
-      "field": "Country_Label",
-      "type": "nominal",
-      "title": "Country and Flag",
-      "axis": {
-        "labelAngle": -45,
-        "labelFontSize": 14
-      }
-    },
-    "y": {
-      "field": "Migrants",
-      "type": "quantitative",
-      "scale": {"type": "log"},
-      "title": "Number of Migrants",
-      "axis": {
-        "labelFontSize": 12,
-        "grid": true
-      }
-    },
-    "color": {
-      "field": "Gender",
-      "type": "nominal",
-      "scale": {"range": ["#ca8861", "#675193"]},
-      "title": "Gender"
-    },
-    "tooltip": [
-      {"field": "country_name", "title": "Country"},
-      {"field": "Country_Flag", "title": "Flag"},
-      {"field": "Gender", "title": "Gender"},
-      {"field": "Migrants", "title": "Number of Migrants"},
-      {"field": "year", "title": "Year"}
-    ]
+  "repeat": {"layer": ["Male_Migrants", "Female_Migrants"]},
+  "spec": {
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Country_Label",
+        "type": "nominal",
+        "title": "Country and Flag",
+        "axis": {
+          "labelAngle": -45,
+          "labelFontSize": 14
+        }
+      },
+      "y": {
+        "aggregate": "sum",
+        "field": {"repeat": "layer"},
+        "type": "quantitative",
+        "title": "Number of Migrants",
+        "scale": {
+          "type": "log",
+          "domainMin": 100
+        },
+        "axis": {
+          "labelFontSize": 12,
+          "grid": true
+        }
+      },
+      "color": {
+        "datum": {"repeat": "layer"},
+        "scale": {
+          "domain": ["Female_Migrants", "Male_Migrants"],
+          "range": ["#FFA500", "#1E90FF"]
+        },
+        "title": "Gender"
+      },
+      "xOffset": {"datum": {"repeat": "layer"}},
+      "tooltip": [
+        {"field": "country_name", "title": "Country"},
+        {"field": "Country_Flag", "title": "Flag"},
+        {"field": "Gender", "title": "Gender"},
+        {
+          "field": {"repeat": "layer"},
+          "title": "Number of Migrants",
+          "type": "quantitative",
+          "format": ","
+        },
+        {"field": "year", "title": "Year"}
+      ]
+    }
   },
   "config": {
     "axisX": {
@@ -89,6 +104,7 @@
     "axisY": {
       "titleFontSize": 14,
       "labelFontSize": 12
-    }
+    },
+    "mark": {"invalid": null}
   }
 }
