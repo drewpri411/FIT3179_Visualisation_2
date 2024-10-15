@@ -48,18 +48,19 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/js/ne_110m_new.topojson",
-        "format": {"type": "topojson", "feature": "countries"}
+        "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_W9_HW/main/js/ne_110m_new.topojson",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+
       },
       "transform": [
         {
           "lookup": "properties.ISO_A3",
           "from": {
             "data": {
-              "url": "data/world_map_arrival_data.csv",
+              "url": "https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/data/world_map_arrival_data.csv",
               "format": {"type": "csv"}
             },
-            "key": "ISO3_code",
+            "key": "country",
             "fields": ["2020", "2021", "2022", "2023", "2024"]
           }
         },
