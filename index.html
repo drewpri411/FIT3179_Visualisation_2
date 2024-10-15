@@ -25,8 +25,6 @@
 <body>
 
   <div class="page">
-
-    <!-- Header section -->
     <div class="header card">
       <div class="header-row">
         <div class="emoji-left">
@@ -41,11 +39,6 @@
         </div>
       </div>
     </div>
-    
-       
-    <!-- End Header section -->
-
-    <!-- 1. Global Context - Choropleth Map -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
         <h2>Global Migration Trends to Malaysia (2020-2024)</h2>
@@ -55,9 +48,6 @@
         <div id="choropleth_map" class="vis-container"></div>
       </div>
     </div>
-    <!-- End Choropleth Map -->
-
-    <!-- 2. Total Arrivals Over Time - Line Chart -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
         <h2>The Impact of COVID-19 on Migration</h2>
@@ -67,9 +57,6 @@
         <div id="line_chart" class="vis-container"></div>
       </div>
     </div>
-    <!-- End Total Arrivals Over Time -->
-
-    <!-- 3. Migration Distribution Across Malaysian States - Choropleth Map -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
         <h2>State-Wise Migration Trends in Malaysia</h2>
@@ -79,9 +66,6 @@
         <div id="state_choropleth_map" class="vis-container"></div>
       </div>
     </div>
-    <!-- End Migration Distribution Across Malaysian States -->
-
-    <!-- 4. Gender Breakdown of Migrants - Bar Chart -->
     <div class="pure-g card">
       <div class="pure-u-1-1">
         <h2>Gender Breakdown of Migrants by Country</h2>
@@ -91,11 +75,8 @@
         <div id="pyramid_chart" class="vis-container"></div>
       </div>
     </div>
-    <!-- End Gender Breakdown of Migrants -->
 
   </div>
-
-  <!-- Scripts to embed Vega charts -->
   <script type="text/javascript">
     var specChoropleth = "js/choropleth_map.vg.json";
     vegaEmbed('#choropleth_map', specChoropleth, { "actions": false }).catch(console.error);

@@ -1,4 +1,3 @@
-/* Global font */
 body * {
   font-family: 'Roboto', sans-serif;
   color: #333333;
@@ -22,7 +21,7 @@ p, li {
   color: #333333;
 }
 
-/* Body background */
+
 body {
   background-color: #F8F8F8;
   background-image: url('https://raw.githubusercontent.com/drewpri411/FIT3179_Visualisation_2/main/images/background_image.jpg');
@@ -32,7 +31,7 @@ body {
   padding-bottom: 50px;
 }
 
-/* Page wrapper */
+
 .page {
   width: 95%;
   max-width: 1400px;
@@ -40,7 +39,7 @@ body {
   padding: 20px;
 }
 
-/* Card layout */
+
 .card {
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 16px;
@@ -55,13 +54,13 @@ body {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
 }
 
-/* Visualization container size */
+
 .vis-container {
   width: 100%;
   height: auto;
   min-height: 400px;
-  overflow: hidden; /* Ensure no overflow */
-  padding: 20px; /* Padding for better separation */
+  overflow: hidden;
+  padding: 20px; 
   box-sizing: border-box;
 }
 
@@ -73,13 +72,13 @@ body {
   height: auto;
 }
 
-/* Responsive embedding for Vega-Lite charts */
+
 .vega-embed {
   width: 100% !important;
   max-width: 100%;
 }
 
-/* Header card styling */
+
 .header {
   text-align: center;
   padding: 50px 30px;
@@ -95,29 +94,29 @@ body {
 
 .header-text {
   text-align: center;
-  flex: 1; /* This makes the text take up the remaining space */
+  flex: 1; 
 }
 
 .header-icon {
-  width: 100px;  /* Adjust size if needed */
+  width: 100px; 
   height: auto;
 }
 
 .emoji-left, .emoji-right {
-  flex-shrink: 0;  /* Prevent icons from shrinking */
-  padding: 0 10px; /* Adjust padding between icons and text */
+  flex-shrink: 0;
+  padding: 0 10px;
 }
 
 ul {
   padding-left: 30px;
 }
 
-/* Center text when needed */
+
 .text-center {
   text-align: center;
 }
 
-/* Style the dropdown filter */
+
 select {
   appearance: none;
   background-color: #ffffff;
@@ -131,25 +130,25 @@ select {
   transition: border-color 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
   margin-right: 10px;
-  text-align: center; /* Center the text inside dropdown */
+  text-align: center;
 }
 
 select:hover, select:focus {
-  border-color: #74add1; /* Light blue hover border */
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Slight shadow effect on hover */
+  border-color: #74add1; 
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); 
 }
 
 select option {
-  background-color: #ffffff; /* White background for dropdown options */
-  color: #002B5B; /* Dark navy text for dropdown options */
+  background-color: #ffffff;
+  color: #002B5B;
   padding: 10px;
-  text-align: center; /* Ensure text is centered in each option */
+  text-align: center;
 }
 
-/* Slider styling */
+
 input[type="range"] {
-  -webkit-appearance: none; /* Vendor-prefixed version for WebKit browsers */
-  appearance: none; /* Standard property for broader compatibility */
+  -webkit-appearance: none;
+  appearance: none;
   width: 100%;
   margin: 10px 0;
   background-color: transparent;
@@ -163,7 +162,7 @@ input[type="range"]::-webkit-slider-runnable-track {
   width: 100%;
   height: 8px;
   cursor: pointer;
-  background: #74add1; /* Slider track in blue */
+  background: #74add1;
   border-radius: 5px;
 }
 
@@ -187,7 +186,7 @@ input[type="range"]::-moz-range-thumb {
   cursor: pointer;
 }
 
-/* Slider label styling */
+
 label {
   font-size: 1rem;
   font-weight: 700;
@@ -195,12 +194,12 @@ label {
   margin-right: 10px;
 }
 
-/* Responsive grid */
+
 .pure-g {
   margin-bottom: 50px;
 }
 
-/* Page footer spacing */
+
 .page-footer {
   padding: 20px;
   text-align: center;
